@@ -1,2 +1,5 @@
-COUNTRY TEMPLATE
-@ID@
+====== @!PAGE@ ======
+===== Общая информация =====
+<something>
+===== Лётные места =====
+<something>
