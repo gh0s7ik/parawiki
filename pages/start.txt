@@ -4,4 +4,6 @@
 Новая страница:
  {{NEWPAGE}}
 
+----
+
 <nspages -subns -textPages="Страницы:" -textNS="Разделы:" -exclude:[wiki: playground:] -exclude>
