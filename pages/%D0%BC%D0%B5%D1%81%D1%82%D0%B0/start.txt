@@ -1,0 +1,2 @@
+====== Места ======
+<nspages -subns -textPages="Страницы:" -textNS="Разделы:" -exclude>
