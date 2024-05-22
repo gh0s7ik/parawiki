@@ -6,4 +6,4 @@
 
 ----
 
-<nspages -subns -textPages="Страницы:" -textNS="Разделы:" -exclude:[wiki: playground:] -exclude>
+<nspages -simpleList -subns -textPages="Страницы:" -textNS="Разделы:" -exclude:[wiki: playground:] -exclude>
