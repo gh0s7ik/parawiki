@@ -3,3 +3,5 @@
 
 Новая страница:
  {{NEWPAGE}}
+
+<nspages -subns -textPages="Страницы:" -textNS="Разделы:" -exclude:wiki: -exclude:playground: -exclude:sidebar -exclude>
