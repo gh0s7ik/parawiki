@@ -1,4 +1,4 @@
 ====== Навигация ======
-Разделы: <nspages -simpleList -nopages -subns -textPages="" -textNS="" -exclude:[wiki: playground: sidebar pagefooter start] -exclude>
+Разделы: <nspages -simpleList -nopages -subns -textPages="" -textNS="" -exclude:[wiki: playground:] -exclude>
 ----
 Теги: {{tagging::ns}}
