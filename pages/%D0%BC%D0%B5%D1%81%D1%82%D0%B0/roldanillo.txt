@@ -12,12 +12,12 @@
 
 ===== Полёты =====
 ==== Как, сколько, для кого ====
-^ Что                        ^ Как                                                       ^
-| Лётный сезон               | декабрь-март                                              |
-| Требуемый уровень пилота   | умение летать в термиках и садиться на площадку 100x100м  |
-| Потенциально опасные зоны  | подветренные экспозиции                                   |
-| Карта термиков | [[https://thermal.kk7.ch/#4.343,-75.873,10|Здесь]] |
-| XContest | [[https://www.xcontest.org/2022/world/en/flights-search/?filter%5Bpoint%5D=-76.19618062887695+4.423463789443673&filter%5Bradius%5D=10000&filter%5Bmode%5D=START&filter%5Bdate_mode%5D=dmy&filter%5Bdate%5D=&filter%5Bvalue_mode%5D=dst&filter%5Bmin_value_dst%5D=&filter%5Bcatg%5D=&filter%5Broute_types%5D=&filter%5Bavg%5D=&filter%5Bpilot%5D=&list%5Bsort%5D=pts&list%5Bdir%5D=down|Здесь]] |
+^ Что                        ^ Как                                                                                                                                                                                                                                                                                                                                                                                             ^
+| Лётный сезон               | декабрь-март                                                                                                                                                                                                                                                                                                                                                                                    |
+| Требуемый уровень пилота   | умение летать в термиках и садиться на площадку 100x100м                                                                                                                                                                                                                                                                                                                                        |
+| Потенциально опасные зоны  | подветренные экспозиции, ЛЭП                                                                                                                                                                                                                                                                                                                                                                    |
+| Карта термиков             | [[https://thermal.kk7.ch/#4.343,-75.873,10|Здесь]]                                                                                                                                                                                                                                                                                                                                              |
+| XContest                   | [[https://www.xcontest.org/2022/world/en/flights-search/?filter%5Bpoint%5D=-76.19618062887695+4.423463789443673&filter%5Bradius%5D=10000&filter%5Bmode%5D=START&filter%5Bdate_mode%5D=dmy&filter%5Bdate%5D=&filter%5Bvalue_mode%5D=dst&filter%5Bmin_value_dst%5D=&filter%5Bcatg%5D=&filter%5Broute_types%5D=&filter%5Bavg%5D=&filter%5Bpilot%5D=&list%5Bsort%5D=pts&list%5Bdir%5D=down|Здесь]]  |
 
 FIXME инфографика с маршрутной статистикой, рекордами и гистограммой треков
 
