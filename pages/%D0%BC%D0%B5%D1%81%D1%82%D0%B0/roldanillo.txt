@@ -145,25 +145,21 @@ FIXME написать
 ==== Как работать ====
 FIXME написать
 ==== Как развлекаться ====
-Бассейн
-Стоит 5 миль, вход тут  https://goo.gl/maps/ebFeKETEySPuHddL8 
+=== Бассейн ===
+Стоит 5 миль, [[https://goo.gl/maps/ebFeKETEySPuHddL8 |вход тут]] 
 
-Массаж
-Хороший тут 
-medical spa https://maps.app.goo.gl/PxLUbVBnRMAyYwjc9?g_st=it
-+57 316 7045524
-
+=== Массаж ===
+Хороший тут: [[https://maps.app.goo.gl/PxLUbVBnRMAyYwjc9|medical spa]], +57 316 7045524
 Большинство других массажей - дорого и плохо.
 
-Cocora valley
-https://goo.gl/maps/PoTCEVeMpZw8cynG8
+=== Cocora valley ===
+[[https://goo.gl/maps/PoTCEVeMpZw8cynG8|Расположена тут]]
 
 Очень красиво, очень высокие пальмы. Можно покататься на лошадях, хотя лошади и плохо слушаются.
 Ехать надо в первой половине дня - во второй половине дожди.
 
-
-Santa Rosa de Cabal
-https://goo.gl/maps/ZjFcVarQRLR7pgCk8
+=== Santa Rosa de Cabal ===
+[[https://goo.gl/maps/ZjFcVarQRLR7pgCk8|Расположено тут]]
 
 Покупаться в источниках и холодном водопаде.
 
@@ -173,9 +169,6 @@ San Vicente Reserva Termal (дальше)
 Такси от Перейры стандартно 70 миль, можно договориться за 50.
 А такси из саого Santa Rosa, который на полпути, стоит 80 миль. Так что берём такси из перейры. Из рольды такси стоит 300 миль.
 Посещение лучше бронировать, народу довольно много даже в будни
-
-
-
 
 https://termales.com.co/
 
