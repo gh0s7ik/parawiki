@@ -1,0 +1,2 @@
+====== Регионы ======
+<nspages -subns -textPages="Страницы:" -textNS="Разделы:" -exclude>
