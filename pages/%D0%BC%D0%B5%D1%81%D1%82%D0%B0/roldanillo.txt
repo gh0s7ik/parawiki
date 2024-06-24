@@ -225,3 +225,5 @@ FIXME написать: удалённая работа и особенност�
 [[места:apia|Апия]]
 
 [[места:piedechinche|Пьедечинче]]
+
+{{geotag>lat:4.4136, lon:-76.1521, alt: , placename:Roldanillo , country:Colombia , region: }}
