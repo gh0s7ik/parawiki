@@ -5,5 +5,10 @@
  {{NEWPAGE}}
 
 ----
+===== Карта лётных мест =====
+<olmap id="olMapOne" width="750px" height="550px" lat="50.0" lon="5.1" zoom="8" statusbar="1" controls="1" poihoverstyle="0" baselyr="OpenStreetMap" gpxfile="" kmlfile=":sitemap.kml" geojsonfile="" summary="KML sitemap of this wiki" >
+</olmap>
+
+----
 
 <nspages -simpleList -subns -textPages="Страницы:" -textNS="Разделы:" -exclude:[wiki: playground:] -exclude>
