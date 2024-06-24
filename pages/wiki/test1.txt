@@ -1,0 +1,1 @@
+{{geotag>lat:52.2345, lon:7.521, alt: , placename: , country: , region: }}
