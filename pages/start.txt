@@ -6,7 +6,7 @@
 
 ----
 ===== Карта лётных мест =====
-<olmap id="olMapOne" width="750px" height="550px" lat="50.0" lon="5.1" zoom="8" statusbar="1" controls="1" poihoverstyle="0" baselyr="google" gpxfile="" kmlfile=":sitemap.kml" geojsonfile="" summary="KML sitemap of this wiki" >
+<olmap id="olMapOne" width="750px" height="550px" lat="50.0" lon="5.1" zoom="0" statusbar="1" controls="1" poihoverstyle="0" baselyr="google" gpxfile="" kmlfile=":sitemap.kml" geojsonfile="" summary="KML sitemap of this wiki" >
 </olmap>
 
 
