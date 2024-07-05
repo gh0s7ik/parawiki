@@ -1,5 +1,8 @@
 ~~NOABSTRACT~~
 ====== @!PAGE@, <Страна лётного места> ======
+
+**Альтернативное написание:** <пример: Nazvanie luetnogo mesta, Name of this flying spot>
+
 <оставить подходящие картинки с формами рельефа в лётном месте:>
 {{:места:plains_t.png?nolink&70|}}{{:места:hills_t.png?nolink&70|}}{{:места:mountains_t.png?nolink&70|}}
 
