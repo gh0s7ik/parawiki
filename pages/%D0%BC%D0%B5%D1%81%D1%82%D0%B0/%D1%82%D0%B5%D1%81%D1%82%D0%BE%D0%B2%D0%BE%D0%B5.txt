@@ -7,7 +7,7 @@
 
 ====== Название лётного места, <Страна лётного места> ======
 
-**Альтернативное написание:** <Nazvanie luetnogo mesta, Name of this flying spot>
+**Альтернативное написание:** <пример: Nazvanie luetnogo mesta, Name of this flying spot>
 
 <оставить подходящие картинки с формами рельефа в лётном месте:>
 {{:места:flat_ru.png?nolink&70|}}{{:места:hills_ru.png?nolink&70|}}{{:места:mnt_ru.png?nolink&70|}}
