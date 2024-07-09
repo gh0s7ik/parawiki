@@ -1,1 +1,3 @@
 I am a reference
+
+[[wiki:referent|page]]
