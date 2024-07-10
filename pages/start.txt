@@ -12,4 +12,4 @@
 
 ----
 
-<nspages -simpleList -subns -textPages="Страницы:" -textNS="Разделы:" -exclude:[wiki: playground:] -exclude>
+<nspages -h1 -simpleList -subns -textPages="Страницы:" -textNS="Разделы:" -exclude:[wiki: playground:] -exclude>
