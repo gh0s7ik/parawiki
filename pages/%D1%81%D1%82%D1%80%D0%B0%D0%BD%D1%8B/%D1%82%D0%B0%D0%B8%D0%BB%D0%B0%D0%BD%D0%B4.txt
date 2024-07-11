@@ -42,18 +42,18 @@
 
 ===== Лётные места =====
 
-[[Место:phu_thap_boek|Phu Thap Boek (Lom Sak / Lom Kao, регион Phetchabun)]]
+[[места:phu_thap_boek|Phu Thap Boek (Lom Sak / Lom Kao, регион Phetchabun)]]
 
 Wat Prong Chang Pha Sawan (Север, 2 часа от Phetchabun)
 
-[[Место:khao_sadao|Khao Sadao]] и рядом Khao Phaya - большие сдувастики.
+[[места:khao_sadao|Khao Sadao]] и рядом Khao Phaya - большие сдувастики.
 
 
-[[Место:khao_dan|Khao Dan (Phetchaburi)]]
+[[места:khao_dan|Khao Dan (Phetchaburi)]]
 
-[[Место:khoa_pang|Khoa Pang (Chumpon)]]
+[[места:khoa_pang|Khoa Pang (Chumpon)]]
 
-[[Место:phuket|Phuket]] (FIXME добавить сюда старт Phom Matep Cape)
+[[места:phuket|Phuket]] (FIXME добавить сюда старт Phom Matep Cape)
 
 
 Другие места, про которые ещё ничего не написано, потому что я про них ничего не знаю (пожалуйста опишите их, если знаете):
