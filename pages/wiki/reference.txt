@@ -1,3 +1,0 @@
-I am a reference
-
-[[wiki:referent_renamed|page]]
