@@ -1,2 +1,5 @@
 ---- approve table ----
 ----
+
+
+<nspages -subns -hideNoPages -hideNoNs -hideNoSubns -tree -r -showhidden>
