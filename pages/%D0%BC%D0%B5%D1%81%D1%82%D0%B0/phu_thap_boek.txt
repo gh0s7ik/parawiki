@@ -173,4 +173,4 @@ https://maps.app.goo.gl/tjEY7k8mPYEmCpLU7
 
 ----
 <Для добавления на карту лётных мест ниже нужно вписать широту и долготу в долях градуса с 4 знаками после запятой. Можно взять из гуглокарт, например. Карта обновляется раз в день или после уведомления админа>
-{{geotag>lat:0.0000, lon:0.0000, alt: , placename: , country: , region: }}
+{{geotag>lat:16.9466, lon:101.1289, alt: , placename: Phu Thap Boek, country: Thailand, region:Phetchabun }}
