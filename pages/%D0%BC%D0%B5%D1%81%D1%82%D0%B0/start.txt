@@ -1,2 +1,2 @@
 ====== Лётные места ======
-<nspages -subns -h1 -textPages="Страницы:" -textNS="Разделы:" -exclude>
+<nspages -nbCol=2 -subns -h1 -textPages="Страницы:" -textNS="Разделы:" -exclude>
