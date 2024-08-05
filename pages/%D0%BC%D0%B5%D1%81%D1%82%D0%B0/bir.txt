@@ -118,7 +118,7 @@ FIXME привести примеры других такси?
 2)На самолёте прилететь в Драмсалу или другой местный аэропорт, чтобы не ехать 10 часов в машине.
 из минусов - дороже, летают маленькие самолёты, поэтому надо внимательно читать условия по багажу. Шансы дополнительных проблем при проверке с электроникой (у вашего жпс есть антенна? это наверное спутниковое радио, мы сейчас конфискуем, а возможно и вас с рейса снимем для выяснения).
 
-3)На автобусе. Например https://www.redbus.in/bus-tickets/delhi-to-bir-himachal-pradesh?fromCityName=Delhi&fromCityId=733&srcCountry=IND&toCityName=Bir%20(Himachal%20Pradesh)&toCityId=195703&destCountry=IND&onward=14-Oct-2023&opId=0&busType=Any
+3)На автобусе. Например [[https://www.redbus.in/bus-tickets/delhi-to-bir-himachal-pradesh?fromCityName=Delhi&fromCityId=733&srcCountry=IND&toCityName=Bir%20(Himachal%20Pradesh)&toCityId=195703&destCountry=IND&onward=14-Oct-2023&opId=0&busType=Any|вот на этом]]
 
 4) На поезде https://www.irctc.co.in/nget/booking/train-list
 ==== Деньги ====
