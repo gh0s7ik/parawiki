@@ -83,8 +83,8 @@ FIXME инфографика с маршрутной статистикой, р�
 
 ** Маршруты: **
   * Самый типичный маршрут - на восток вдоль линии гор, но можно лететь и на запад до границы с Узбекистаном, и на север в горы, если база позволяет.  
-  *  [[https://www.xcontest.org/2022/world/en/flights-search/?filter%5Bpoint%5D=68.77763007392593+38.68255879146335&filter%5Bradius%5D=10000&filter%5Bmode%5D=START&filter%5Bdate_mode%5D=dmy&filter%5Bdate%5D=&filter%5Bvalue_mode%5D=dst&filter%5Bmin_value_dst%5D=&filter%5Bcatg%5D=&filter%5Broute_types%5D=&filter%5Bavg%5D=&filter%5Bpilot%5D=&list%5Bsort%5D=pts&list%5Bdir%5D=down|XContest для данного старта]] >
-  * [[https://www.xcontest.org/world/en/flights/detail:AlexanderRyzhov/7.5.2024/06:02|Текущий рекорд плоский треугольник = 111km]] >
+  *  [[https://www.xcontest.org/2022/world/en/flights-search/?filter%5Bpoint%5D=68.77763007392593+38.68255879146335&filter%5Bradius%5D=10000&filter%5Bmode%5D=START&filter%5Bdate_mode%5D=dmy&filter%5Bdate%5D=&filter%5Bvalue_mode%5D=dst&filter%5Bmin_value_dst%5D=&filter%5Bcatg%5D=&filter%5Broute_types%5D=&filter%5Bavg%5D=&filter%5Bpilot%5D=&list%5Bsort%5D=pts&list%5Bdir%5D=down|XContest для данного старта]] 
+  * [[https://www.xcontest.org/world/en/flights/detail:AlexanderRyzhov/7.5.2024/06:02|Текущий рекорд плоский треугольник = 111km]] 
 
 ==== Завоз и подбор ====
 === Завоз ===
