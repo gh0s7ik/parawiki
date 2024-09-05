@@ -1,1 +1,3 @@
+<WRAP right round info 40%>
 Страница обновлена:
+</WRAP>
