@@ -14,4 +14,4 @@ FIXME добавить больше информации на стартовую
 
 ----
 
-<nspages -h1 -simpleList -subns -textPages="Страницы:" -textNS="Разделы:" -exclude:[wiki: playground:] -exclude>
+<nspages -h1 -simpleList -subns -textPages="Страницы:" -textNS="Разделы:" -hideNoPages -hideNoSubns -exclude:[wiki: playground:] -exclude>
