@@ -12,7 +12,8 @@
 ===== Виза =====
 https://indianvisaonline.gov.in/evisa/tvoa.html - форма для получения электронной визы. Надо подавать заранее. Оплачивать международной картой.
 Проверяют формально, можно указывать любой адрес в Бире и т.п.
-https://indianfrro.gov.in/frro/menufrrodoc.jsp вот форма для продления индийской визы
+
+https://indianfrro.gov.in/frro/menufrrodoc.jsp - форма для продления индийской визы
 
 ===== Опасности =====
 <WRAP center round important 80%>
