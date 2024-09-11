@@ -6,8 +6,7 @@
 {{:места:mountains_t.png?nolink&70|}}
 
 ----
-
-<imgcaption image1|основной старт>{{:места:bir.jpg?600|}}</imgcaption>
+<imgcaption image1|основной старт>{{:места:bir:img_20240911_094915_064.jpg?600|}}</imgcaption>
 
 Наиболее популярное место для полётов в индийских Гималаях. 
 
