@@ -135,3 +135,6 @@ FIXME <добавить>
 
 ===== Фотографии =====
 {{:места:kuray:ad6nfzo48lw.jpg?400|}}  {{:места:kuray:bmv6hqxrqly.jpg?400|}} {{:места:kuray:dwukfrk2gtu.jpg?400|}} {{:места:kuray:fak9ib6boco.jpg?400|}} {{:места:kuray:le4dkmualek.jpg?400|}}  {{:места:kuray:y_xqukjsies.jpg?400|}} 
+
+----
+{{geotag>lat:54.6641, lon:37.9649, alt: , placename: , country: , region: }}
