@@ -152,6 +152,7 @@
   * [[https://t.me/flyaltay_public|Чат в телеграмме]]
   * На горе работает метеостанция. Данные о ветре на вершине можно посмотреть на табло в лагере и на сайте [[http://погоданагоре.рф|Погоданагоре.рф]]
   * Солоновка на сайте [[https://turistka.ru/altai/info.php?ob=780|Туристка.ру]]
+  * Waypoints с соревнования 2014 года: файл wpt в архиве zip {{ :места:solonovka:solo2024.zip |}}
 
 ===== Фотографии =====
 {{:места:solonovka:tclo3cdso88.jpg?400|}}  {{:места:solonovka:sbdzu0ztcxg.jpg?400|}}  {{:места:solonovka:czvgibuakz0.jpg?400|}}  
