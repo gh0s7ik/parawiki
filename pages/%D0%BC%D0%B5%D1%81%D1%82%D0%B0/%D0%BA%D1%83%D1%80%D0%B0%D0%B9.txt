@@ -152,4 +152,4 @@ FIXME <добавить>
 
 
 ----
-{{geotag>lat:50.1326, lon:87.5556, alt: , placename: , country: , region: }}
+{{geotag>lat:50.232701, lon:87.930077, alt: , placename: , country: , region: }}
