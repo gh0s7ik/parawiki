@@ -5,7 +5,7 @@
 <dc:publisher>Paragliding Sites</dc:publisher>
 <link href="https://paraspots.wiki/" />
 <link href="https://paraspots.wiki/_media/sitemap.georss" rel="self" />
-<updated>2024-09-14T18:33:02+00:00</updated>
+<updated>2024-09-14T22:32:07+00:00</updated>
 <id>tag:paraspots.wiki,2024-09-14:/_media/sitemap.georss</id>
 <rights>cc-by-sa</rights>
 <entry>
@@ -19,26 +19,6 @@
   <id>tag:paraspots.wiki,2024-07-15:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/roldanillo</id>
 </entry>
 <entry>
-  <title>Название лётного места, <Страна лётного места></title>
-  <summary></summary>
-  <georss:point>1.2345 1.2345</georss:point>
-  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5" rel="alternate" type="text/html" />
-  <author><name>E</name></author>
-  <updated>2024-09-14T18:31:34+00:00</updated>
-  <published>2024-05-22T19:01:56+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5</id>
-</entry>
-<entry>
-  <title>Название лётного места, <Страна лётного места></title>
-  <summary></summary>
-  <georss:point>1.2345 1.2345</georss:point>
-  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5" rel="alternate" type="text/html" />
-  <author><name>E</name></author>
-  <updated>2024-09-14T18:31:34+00:00</updated>
-  <published>2024-05-22T19:01:56+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5</id>
-</entry>
-<entry>
   <title>Рио-де-жанейро, Бразилия</title>
   <summary></summary>
   <georss:point>-23.0010 -43.2732</georss:point>
@@ -47,16 +27,6 @@
   <updated>2024-08-04T22:45:05+00:00</updated>
   <published>2024-07-10T19:34:21+00:00</published>
   <id>tag:paraspots.wiki,2024-08-04:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%80%D0%B8%D0%BE-%D0%B4%D0%B5-%D0%B6%D0%B0%D0%BD%D0%B5%D0%B9%D1%80%D0%BE</id>
-</entry>
-<entry>
-  <title>Oludeniz, Турция</title>
-  <summary></summary>
-  <georss:point>36.5449 29.1243</georss:point>
-  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz" rel="alternate" type="text/html" />
-  <author><name>Alexey Kalchenko</name></author>
-  <updated>2024-09-14T18:30:43+00:00</updated>
-  <published>2024-07-11T15:53:13+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz</id>
 </entry>
 <entry>
   <title>Текели, Казахстан</title>
@@ -376,9 +346,9 @@
   <georss:point>51.9722 84.5885</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0" rel="alternate" type="text/html" />
   <author><name>Roman Nikitin</name></author>
-  <updated>2024-09-13T02:50:38+00:00</updated>
+  <updated>2024-09-14T19:43:29+00:00</updated>
   <published>2024-09-10T07:08:30+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-13:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0</id>
+  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0</id>
 </entry>
 <entry>
   <title>Курай, Россия</title>
@@ -386,9 +356,9 @@
   <georss:point>50.232701 87.930077</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9" rel="alternate" type="text/html" />
   <author><name>Roman Nikitin</name></author>
-  <updated>2024-09-13T02:51:50+00:00</updated>
+  <updated>2024-09-14T19:57:28+00:00</updated>
   <published>2024-09-11T07:36:18+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-13:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9</id>
+  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9</id>
 </entry>
 <entry>
   <title>Курай, Россия</title>
@@ -396,9 +366,9 @@
   <georss:point>50.232701 87.930077</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9" rel="alternate" type="text/html" />
   <author><name>Roman Nikitin</name></author>
-  <updated>2024-09-13T02:51:50+00:00</updated>
+  <updated>2024-09-14T19:57:28+00:00</updated>
   <published>2024-09-11T07:36:18+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-13:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9</id>
+  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9</id>
 </entry>
 <entry>
   <title>Курай, Россия</title>
@@ -406,9 +376,9 @@
   <georss:point>50.232701 87.930077</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9" rel="alternate" type="text/html" />
   <author><name>Roman Nikitin</name></author>
-  <updated>2024-09-13T02:51:50+00:00</updated>
+  <updated>2024-09-14T19:57:28+00:00</updated>
   <published>2024-09-11T07:36:18+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-13:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9</id>
+  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9</id>
 </entry>
 <entry>
   <title>Суздаль, Россия</title>
@@ -441,24 +411,24 @@
   <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B1%D1%83%D0%B4%D0%B2%D0%B0-%D0%BF%D0%B5%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%86</id>
 </entry>
 <entry>
-  <title>Орловка, Липецкая область, Россия</title>
+  <title>Орловка, Россия</title>
   <summary></summary>
   <georss:point>53.4016 39.9269</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BB%D0%B8%D0%BF%D0%B5%D1%86%D0%BA" rel="alternate" type="text/html" />
   <author><name>Humbert</name></author>
-  <updated>2024-09-13T00:57:01+00:00</updated>
+  <updated>2024-09-14T18:53:14+00:00</updated>
   <published>2024-09-12T19:51:45+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-13:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BB%D0%B8%D0%BF%D0%B5%D1%86%D0%BA</id>
+  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BB%D0%B8%D0%BF%D0%B5%D1%86%D0%BA</id>
 </entry>
 <entry>
-  <title>Орловка, Липецкая область, Россия</title>
+  <title>Орловка, Россия</title>
   <summary></summary>
   <georss:point>53.4016 39.9269</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BB%D0%B8%D0%BF%D0%B5%D1%86%D0%BA" rel="alternate" type="text/html" />
   <author><name>Humbert</name></author>
-  <updated>2024-09-13T00:57:01+00:00</updated>
+  <updated>2024-09-14T18:53:14+00:00</updated>
   <published>2024-09-12T19:51:45+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-13:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BB%D0%B8%D0%BF%D0%B5%D1%86%D0%BA</id>
+  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BB%D0%B8%D0%BF%D0%B5%D1%86%D0%BA</id>
 </entry>
 <entry>
   <title>Rajac, Сербия</title>
@@ -518,7 +488,17 @@
   <georss:point>36.5449 29.1243</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz" rel="alternate" type="text/html" />
   <author><name>Alexey Kalchenko</name></author>
-  <updated>2024-09-14T18:30:43+00:00</updated>
+  <updated>2024-09-14T20:00:49+00:00</updated>
+  <published>2024-07-11T15:53:13+00:00</published>
+  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz</id>
+</entry>
+<entry>
+  <title>Oludeniz, Турция</title>
+  <summary></summary>
+  <georss:point>36.5449 29.1243</georss:point>
+  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz" rel="alternate" type="text/html" />
+  <author><name>Alexey Kalchenko</name></author>
+  <updated>2024-09-14T20:00:49+00:00</updated>
   <published>2024-07-11T15:53:13+00:00</published>
   <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz</id>
 </entry>
@@ -528,7 +508,27 @@
   <georss:point>1.2345 1.2345</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5" rel="alternate" type="text/html" />
   <author><name>E</name></author>
-  <updated>2024-09-14T18:31:34+00:00</updated>
+  <updated>2024-09-14T19:53:30+00:00</updated>
+  <published>2024-05-22T19:01:56+00:00</published>
+  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5</id>
+</entry>
+<entry>
+  <title>Название лётного места, <Страна лётного места></title>
+  <summary></summary>
+  <georss:point>1.2345 1.2345</georss:point>
+  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5" rel="alternate" type="text/html" />
+  <author><name>E</name></author>
+  <updated>2024-09-14T19:53:30+00:00</updated>
+  <published>2024-05-22T19:01:56+00:00</published>
+  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5</id>
+</entry>
+<entry>
+  <title>Название лётного места, <Страна лётного места></title>
+  <summary></summary>
+  <georss:point>1.2345 1.2345</georss:point>
+  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5" rel="alternate" type="text/html" />
+  <author><name>E</name></author>
+  <updated>2024-09-14T19:53:30+00:00</updated>
   <published>2024-05-22T19:01:56+00:00</published>
   <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5</id>
 </entry>
