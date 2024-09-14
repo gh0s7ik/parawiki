@@ -157,10 +157,14 @@
   * Статья про [[https://turistka.ru/altai/info.php?ob=780|Солоновку]] на сайте Туристка.Ру
 
 ===== Фотографии =====
-{{:места:solonovka:tclo3cdso88.jpg?400|}}  {{:места:solonovka:sbdzu0ztcxg.jpg?400|}}  {{:места:solonovka:czvgibuakz0.jpg?400|}}  
-
-{{:места:solonovka:lr6ygmak4b0.jpg?400|}} {{:места:solonovka:f595d5c2-75f2-44b0-b52e-8ca19f94f3dc.jpg?300|}} {{:места:solonovka:ovvmgde6_ta_1_.jpg?400|}}
-
+<gallery>
+:места:solonovka:tclo3cdso88.jpg
+:места:solonovka:sbdzu0ztcxg.jpg
+:места:solonovka:czvgibuakz0.jpg
+:места:solonovka:lr6ygmak4b0.jpg
+:места:solonovka:f595d5c2-75f2-44b0-b52e-8ca19f94f3dc.jpg
+:места:solonovka:ovvmgde6_ta_1_.jpg
+</gallery>
 
 ----
 {{geotag>lat:51.9722, lon:84.5885, alt: , placename: , country: , region: }}
