@@ -5,7 +5,7 @@
 <dc:publisher>Paragliding Sites</dc:publisher>
 <link href="https://paraspots.wiki/" />
 <link href="https://paraspots.wiki/_media/sitemap.georss" rel="self" />
-<updated>2024-09-14T18:30:56+00:00</updated>
+<updated>2024-09-14T18:31:58+00:00</updated>
 <id>tag:paraspots.wiki,2024-09-14:/_media/sitemap.georss</id>
 <rights>cc-by-sa</rights>
 <entry>
@@ -21,22 +21,22 @@
 <entry>
   <title>Название лётного места, <Страна лётного места></title>
   <summary></summary>
-  <georss:point>0.0000 0.0000</georss:point>
+  <georss:point>1.2345 1.2345</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5" rel="alternate" type="text/html" />
   <author><name>E</name></author>
-  <updated>2024-07-15T10:51:20+00:00</updated>
+  <updated>2024-09-14T18:31:34+00:00</updated>
   <published>2024-05-22T19:01:56+00:00</published>
-  <id>tag:paraspots.wiki,2024-07-15:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5</id>
+  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5</id>
 </entry>
 <entry>
   <title>Название лётного места, <Страна лётного места></title>
   <summary></summary>
-  <georss:point>0.0000 0.0000</georss:point>
+  <georss:point>1.2345 1.2345</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5" rel="alternate" type="text/html" />
   <author><name>E</name></author>
-  <updated>2024-07-15T10:51:20+00:00</updated>
+  <updated>2024-09-14T18:31:34+00:00</updated>
   <published>2024-05-22T19:01:56+00:00</published>
-  <id>tag:paraspots.wiki,2024-07-15:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5</id>
+  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5</id>
 </entry>
 <entry>
   <title>Рио-де-жанейро, Бразилия</title>
@@ -521,5 +521,15 @@
   <updated>2024-09-14T18:30:43+00:00</updated>
   <published>2024-07-11T15:53:13+00:00</published>
   <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz</id>
+</entry>
+<entry>
+  <title>Название лётного места, <Страна лётного места></title>
+  <summary></summary>
+  <georss:point>1.2345 1.2345</georss:point>
+  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5" rel="alternate" type="text/html" />
+  <author><name>E</name></author>
+  <updated>2024-09-14T18:31:34+00:00</updated>
+  <published>2024-05-22T19:01:56+00:00</published>
+  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5</id>
 </entry>
 </feed>
