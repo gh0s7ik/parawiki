@@ -133,4 +133,4 @@ FIXME инфографика с маршрутной статистикой, р�
 
 ----
 
-{{geotag>lat:18.9225 , lon: -99.5972, alt: , placename: , country: , region: }}
+{{geotag>lat:18.9225 , lon:-99.5972, alt: , placename: , country: , region: }}
