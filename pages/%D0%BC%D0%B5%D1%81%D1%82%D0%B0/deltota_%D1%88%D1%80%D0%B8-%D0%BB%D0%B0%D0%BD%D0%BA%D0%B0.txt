@@ -3,8 +3,7 @@
 
 **Альтернативное написание:** Deltota, James Taylor's Seat - ජේම්ස් ටේලර්ගේ ආසනය
 
-<оставить подходящие картинки с формами рельефа в лётном месте:>
-{{:места:plains_t.png?nolink&70|}}{{:места:hills_t.png?nolink&70|}}{{:места:mountains_t.png?nolink&70|}}
+{{:места:hills_t.png?nolink&70|}}{{:места:mountains_t.png?nolink&70|}}
 
 ----
 
