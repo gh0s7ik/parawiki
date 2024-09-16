@@ -5,8 +5,8 @@
 <dc:publisher>Paragliding Sites</dc:publisher>
 <link href="https://paraspots.wiki/" />
 <link href="https://paraspots.wiki/_media/sitemap.georss" rel="self" />
-<updated>2024-09-15T22:34:39+00:00</updated>
-<id>tag:paraspots.wiki,2024-09-15:/_media/sitemap.georss</id>
+<updated>2024-09-16T20:43:26+00:00</updated>
+<id>tag:paraspots.wiki,2024-09-16:/_media/sitemap.georss</id>
 <rights>cc-by-sa</rights>
 <entry>
   <title>Roldanillo, Колумбия</title>
@@ -39,26 +39,6 @@
   <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D0%BA%D0%B5%D0%BB%D0%B8</id>
 </entry>
 <entry>
-  <title>La Malinche, Мексика</title>
-  <summary></summary>
-  <georss:point>18.9225 -99.5972</georss:point>
-  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche" rel="alternate" type="text/html" />
-  <author><name>Humbert</name></author>
-  <updated>2024-09-15T08:43:42+00:00</updated>
-  <published>2024-09-11T18:20:32+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-15:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche</id>
-</entry>
-<entry>
-  <title>Андриевица-Плав, Черногория</title>
-  <summary></summary>
-  <georss:point>42.7339 19.7924</georss:point>
-  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2" rel="alternate" type="text/html" />
-  <author><name>Дмитрий Роот</name></author>
-  <updated>2024-09-13T20:32:56+00:00</updated>
-  <published>2024-09-13T19:45:39+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-13:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2</id>
-</entry>
-<entry>
   <title>Deltota, Шри-Ланка</title>
   <summary></summary>
   <georss:point>0.0000 0.0000</georss:point>
@@ -67,6 +47,16 @@
   <updated>2024-09-15T21:17:33+00:00</updated>
   <published>2024-09-15T16:58:34+00:00</published>
   <id>tag:paraspots.wiki,2024-09-15:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/deltota_%D1%88%D1%80%D0%B8-%D0%BB%D0%B0%D0%BD%D0%BA%D0%B0</id>
+</entry>
+<entry>
+  <title>[ЧЕРНОВИК] Голениха , Россия</title>
+  <summary></summary>
+  <georss:point>0.0000 0.0000</georss:point>
+  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%85%D0%B0_%D1%80%D0%BE%D1%81%D1%81%D1%81%D0%B8%D1%8F" rel="alternate" type="text/html" />
+  <author><name>Humbert</name></author>
+  <updated>2024-09-16T11:04:51+00:00</updated>
+  <published>2024-09-16T06:59:17+00:00</published>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%85%D0%B0_%D1%80%D0%BE%D1%81%D1%81%D1%81%D0%B8%D1%8F</id>
 </entry>
 <entry>
   <title>Душанбе, Таджикистан</title>
@@ -346,9 +336,9 @@
   <georss:point>51.9722 84.5885</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0" rel="alternate" type="text/html" />
   <author><name>Roman Nikitin</name></author>
-  <updated>2024-09-14T19:43:29+00:00</updated>
+  <updated>2024-09-16T02:24:53+00:00</updated>
   <published>2024-09-10T07:08:30+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0</id>
 </entry>
 <entry>
   <title>Курай, Россия</title>
@@ -356,9 +346,9 @@
   <georss:point>50.232701 87.930077</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9" rel="alternate" type="text/html" />
   <author><name>Roman Nikitin</name></author>
-  <updated>2024-09-14T19:57:28+00:00</updated>
+  <updated>2024-09-16T02:40:48+00:00</updated>
   <published>2024-09-11T07:36:18+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9</id>
 </entry>
 <entry>
   <title>Курай, Россия</title>
@@ -366,9 +356,9 @@
   <georss:point>50.232701 87.930077</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9" rel="alternate" type="text/html" />
   <author><name>Roman Nikitin</name></author>
-  <updated>2024-09-14T19:57:28+00:00</updated>
+  <updated>2024-09-16T02:40:48+00:00</updated>
   <published>2024-09-11T07:36:18+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9</id>
 </entry>
 <entry>
   <title>Курай, Россия</title>
@@ -376,9 +366,9 @@
   <georss:point>50.232701 87.930077</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9" rel="alternate" type="text/html" />
   <author><name>Roman Nikitin</name></author>
-  <updated>2024-09-14T19:57:28+00:00</updated>
+  <updated>2024-09-16T02:40:48+00:00</updated>
   <published>2024-09-11T07:36:18+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9</id>
 </entry>
 <entry>
   <title>Суздаль, Россия</title>
@@ -406,9 +396,9 @@
   <georss:point>42.2819 18.8733</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B1%D1%83%D0%B4%D0%B2%D0%B0-%D0%BF%D0%B5%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%86" rel="alternate" type="text/html" />
   <author><name>Дмитрий Роот</name></author>
-  <updated>2024-09-14T08:39:38+00:00</updated>
+  <updated>2024-09-16T20:37:43+00:00</updated>
   <published>2024-09-13T07:47:19+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B1%D1%83%D0%B4%D0%B2%D0%B0-%D0%BF%D0%B5%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%86</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B1%D1%83%D0%B4%D0%B2%D0%B0-%D0%BF%D0%B5%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%86</id>
 </entry>
 <entry>
   <title>Орловка, Россия</title>
@@ -458,29 +448,39 @@
   <georss:point>42.7339 19.7924</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2" rel="alternate" type="text/html" />
   <author><name>Дмитрий Роот</name></author>
-  <updated>2024-09-13T20:32:56+00:00</updated>
+  <updated>2024-09-16T20:37:57+00:00</updated>
   <published>2024-09-13T19:45:39+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-13:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2</id>
 </entry>
 <entry>
-  <title>Valle de Bravo, Мексика</title>
+  <title>Андриевица-Плав, Черногория</title>
+  <summary></summary>
+  <georss:point>42.7339 19.7924</georss:point>
+  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2" rel="alternate" type="text/html" />
+  <author><name>Дмитрий Роот</name></author>
+  <updated>2024-09-16T20:37:57+00:00</updated>
+  <published>2024-09-13T19:45:39+00:00</published>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2</id>
+</entry>
+<entry>
+  <title>[ЧЕРНОВИК] Valle de Bravo, Мексика</title>
   <summary></summary>
   <georss:point>19.1836 -100.1298</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo" rel="alternate" type="text/html" />
   <author><name>Humbert</name></author>
-  <updated>2024-09-13T20:47:50+00:00</updated>
+  <updated>2024-09-16T15:03:56+00:00</updated>
   <published>2024-09-11T18:22:42+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-13:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo</id>
 </entry>
 <entry>
-  <title>Valle de Bravo, Мексика</title>
+  <title>[ЧЕРНОВИК] Valle de Bravo, Мексика</title>
   <summary></summary>
   <georss:point>19.1836 -100.1298</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo" rel="alternate" type="text/html" />
   <author><name>Humbert</name></author>
-  <updated>2024-09-13T20:47:50+00:00</updated>
+  <updated>2024-09-16T15:03:56+00:00</updated>
   <published>2024-09-11T18:22:42+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-13:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo</id>
 </entry>
 <entry>
   <title>Oludeniz, Турция</title>
@@ -488,9 +488,9 @@
   <georss:point>36.5449 29.1243</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz" rel="alternate" type="text/html" />
   <author><name>Alexey Kalchenko</name></author>
-  <updated>2024-09-14T20:00:49+00:00</updated>
+  <updated>2024-09-16T14:33:26+00:00</updated>
   <published>2024-07-11T15:53:13+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz</id>
 </entry>
 <entry>
   <title>Oludeniz, Турция</title>
@@ -498,9 +498,9 @@
   <georss:point>36.5449 29.1243</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz" rel="alternate" type="text/html" />
   <author><name>Alexey Kalchenko</name></author>
-  <updated>2024-09-14T20:00:49+00:00</updated>
+  <updated>2024-09-16T14:33:26+00:00</updated>
   <published>2024-07-11T15:53:13+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz</id>
 </entry>
 <entry>
   <title>[ЧЕРНОВИК] Название лётного места, <Страна лётного места></title>
@@ -543,43 +543,63 @@
   <id>tag:paraspots.wiki,2024-09-14:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D0%BA%D0%B5%D0%BB%D0%B8</id>
 </entry>
 <entry>
-  <title>La Malinche, Мексика</title>
+  <title>[ЧЕРНОВИК] La Malinche, Мексика</title>
   <summary></summary>
   <georss:point>18.9225 -99.5972</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche" rel="alternate" type="text/html" />
   <author><name>Humbert</name></author>
-  <updated>2024-09-15T08:43:42+00:00</updated>
+  <updated>2024-09-16T14:44:52+00:00</updated>
   <published>2024-09-11T18:20:32+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-15:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche</id>
 </entry>
 <entry>
-  <title>Ixtapan, Мексика</title>
+  <title>[ЧЕРНОВИК] La Malinche, Мексика</title>
+  <summary></summary>
+  <georss:point>18.9225 -99.5972</georss:point>
+  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche" rel="alternate" type="text/html" />
+  <author><name>Humbert</name></author>
+  <updated>2024-09-16T14:44:52+00:00</updated>
+  <published>2024-09-11T18:20:32+00:00</published>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche</id>
+</entry>
+<entry>
+  <title>[ЧЕРНОВИК] Ixtapan, Мексика</title>
   <summary></summary>
   <georss:point>18.8977 -99.7395</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan" rel="alternate" type="text/html" />
   <author><name>Humbert</name></author>
-  <updated>2024-09-15T09:17:17+00:00</updated>
+  <updated>2024-09-16T10:59:07+00:00</updated>
   <published>2024-09-13T20:48:35+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-15:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan</id>
 </entry>
 <entry>
-  <title>Ixtapan, Мексика</title>
+  <title>[ЧЕРНОВИК] Ixtapan, Мексика</title>
   <summary></summary>
   <georss:point>18.8977 -99.7395</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan" rel="alternate" type="text/html" />
   <author><name>Humbert</name></author>
-  <updated>2024-09-15T09:17:17+00:00</updated>
+  <updated>2024-09-16T10:59:07+00:00</updated>
   <published>2024-09-13T20:48:35+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-15:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan</id>
 </entry>
 <entry>
-  <title>Кучки, Пензенская область, Россия</title>
+  <title>[ЧЕРНОВИК] Кучки, Пензенская область, Россия</title>
   <summary></summary>
   <georss:point>52.9891 44.5221</georss:point>
   <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%87%D0%BA%D0%B8_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F" rel="alternate" type="text/html" />
   <author><name>Humbert</name></author>
-  <updated>2024-09-15T18:48:09+00:00</updated>
+  <updated>2024-09-16T14:29:42+00:00</updated>
   <published>2024-09-15T10:51:54+00:00</published>
-  <id>tag:paraspots.wiki,2024-09-15:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%87%D0%BA%D0%B8_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F</id>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%87%D0%BA%D0%B8_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F</id>
+</entry>
+<entry>
+  <title>Жабляк-Крново, Черногория</title>
+  <summary></summary>
+  <georss:point>43.1227 19.1037</georss:point>
+  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B6%D0%B0%D0%B1%D0%BB%D1%8F%D0%BA-%D0%BA%D1%80%D0%BD%D0%BE%D0%B2%D0%BE" rel="alternate" type="text/html" />
+  <author><name>Дмитрий Роот</name></author>
+  <updated>2024-09-16T20:37:22+00:00</updated>
+  <published>2024-09-16T20:35:47+00:00</published>
+  <id>tag:paraspots.wiki,2024-09-16:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B6%D0%B0%D0%B1%D0%BB%D1%8F%D0%BA-%D0%BA%D1%80%D0%BD%D0%BE%D0%B2%D0%BE</id>
 </entry>
 </feed>

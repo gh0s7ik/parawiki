@@ -3,7 +3,7 @@
 <Document id="root_doc">
 <name>Paragliding Sites spatial sitemap</name>
 <atom:link href="https://paraspots.wiki/" rel="related" type="text/html" />
-<!-- atom:updated>2024-09-15T22:34:39+00:00</atom:updated -->
+<!-- atom:updated>2024-09-16T20:43:26+00:00</atom:updated -->
 <Style id="icon"><IconStyle><color>ffffffff</color><scale>1</scale><Icon><href>/lib/plugins/spatialhelper/wikiitem.png</href></Icon></IconStyle></Style>
 <Placemark id="crc32-4842cec7">
   <name><![CDATA[Roldanillo, Колумбия]]></name>
@@ -29,27 +29,19 @@
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>78.6542,44.8440</coordinates></Point>
 </Placemark>
-<Placemark id="crc32-16d11df0">
-  <name><![CDATA[La Malinche, Мексика]]></name>
-  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche?1" rel="alternate" type="text/html" />
-  <atom:author><atom:name>Humbert</atom:name></atom:author>
-  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche">La Malinche, Мексика</a></p>]]></description>
-  <styleUrl>#icon</styleUrl>
-  <Point><coordinates>-99.5972,18.9225</coordinates></Point>
-</Placemark>
-<Placemark id="crc32-c2775ee8">
-  <name><![CDATA[Андриевица-Плав, Черногория]]></name>
-  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2?1" rel="alternate" type="text/html" />
-  <atom:author><atom:name>Дмитрий Роот</atom:name></atom:author>
-  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2">Андриевица-Плав, Черногория</a></p>]]></description>
-  <styleUrl>#icon</styleUrl>
-  <Point><coordinates>19.7924,42.7339</coordinates></Point>
-</Placemark>
 <Placemark id="crc32-73485d86">
   <name><![CDATA[Deltota, Шри-Ланка]]></name>
   <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/deltota_%D1%88%D1%80%D0%B8-%D0%BB%D0%B0%D0%BD%D0%BA%D0%B0?1" rel="alternate" type="text/html" />
   <atom:author><atom:name>Олег</atom:name></atom:author>
   <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/deltota_%D1%88%D1%80%D0%B8-%D0%BB%D0%B0%D0%BD%D0%BA%D0%B0">Deltota, Шри-Ланка</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>0.0000,0.0000</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-bc5f54a0">
+  <name><![CDATA[[ЧЕРНОВИК] Голениха , Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%85%D0%B0_%D1%80%D0%BE%D1%81%D1%81%D1%81%D0%B8%D1%8F?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%85%D0%B0_%D1%80%D0%BE%D1%81%D1%81%D1%81%D0%B8%D1%8F">[ЧЕРНОВИК] Голениха , Россия</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>0.0000,0.0000</coordinates></Point>
 </Placemark>
@@ -364,19 +356,27 @@
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>19.7924,42.7339</coordinates></Point>
 </Placemark>
+<Placemark id="crc32-c2775ee8">
+  <name><![CDATA[Андриевица-Плав, Черногория]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий Роот</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2">Андриевица-Плав, Черногория</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>19.7924,42.7339</coordinates></Point>
+</Placemark>
 <Placemark id="crc32-57a92536">
-  <name><![CDATA[Valle de Bravo, Мексика]]></name>
+  <name><![CDATA[[ЧЕРНОВИК] Valle de Bravo, Мексика]]></name>
   <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo?1" rel="alternate" type="text/html" />
   <atom:author><atom:name>Humbert</atom:name></atom:author>
-  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo">Valle de Bravo, Мексика</a></p>]]></description>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo">[ЧЕРНОВИК] Valle de Bravo, Мексика</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>-100.1298,19.1836</coordinates></Point>
 </Placemark>
 <Placemark id="crc32-57a92536">
-  <name><![CDATA[Valle de Bravo, Мексика]]></name>
+  <name><![CDATA[[ЧЕРНОВИК] Valle de Bravo, Мексика]]></name>
   <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo?1" rel="alternate" type="text/html" />
   <atom:author><atom:name>Humbert</atom:name></atom:author>
-  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo">Valle de Bravo, Мексика</a></p>]]></description>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo">[ЧЕРНОВИК] Valle de Bravo, Мексика</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>-100.1298,19.1836</coordinates></Point>
 </Placemark>
@@ -429,36 +429,52 @@
   <Point><coordinates>78.6542,44.8440</coordinates></Point>
 </Placemark>
 <Placemark id="crc32-16d11df0">
-  <name><![CDATA[La Malinche, Мексика]]></name>
+  <name><![CDATA[[ЧЕРНОВИК] La Malinche, Мексика]]></name>
   <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche?1" rel="alternate" type="text/html" />
   <atom:author><atom:name>Humbert</atom:name></atom:author>
-  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche">La Malinche, Мексика</a></p>]]></description>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche">[ЧЕРНОВИК] La Malinche, Мексика</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>-99.5972,18.9225</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-16d11df0">
+  <name><![CDATA[[ЧЕРНОВИК] La Malinche, Мексика]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche">[ЧЕРНОВИК] La Malinche, Мексика</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>-99.5972,18.9225</coordinates></Point>
 </Placemark>
 <Placemark id="crc32-0dcc466f">
-  <name><![CDATA[Ixtapan, Мексика]]></name>
+  <name><![CDATA[[ЧЕРНОВИК] Ixtapan, Мексика]]></name>
   <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan?1" rel="alternate" type="text/html" />
   <atom:author><atom:name>Humbert</atom:name></atom:author>
-  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan">Ixtapan, Мексика</a></p>]]></description>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan">[ЧЕРНОВИК] Ixtapan, Мексика</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>-99.7395,18.8977</coordinates></Point>
 </Placemark>
 <Placemark id="crc32-0dcc466f">
-  <name><![CDATA[Ixtapan, Мексика]]></name>
+  <name><![CDATA[[ЧЕРНОВИК] Ixtapan, Мексика]]></name>
   <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan?1" rel="alternate" type="text/html" />
   <atom:author><atom:name>Humbert</atom:name></atom:author>
-  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan">Ixtapan, Мексика</a></p>]]></description>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan">[ЧЕРНОВИК] Ixtapan, Мексика</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>-99.7395,18.8977</coordinates></Point>
 </Placemark>
 <Placemark id="crc32-448cae68">
-  <name><![CDATA[Кучки, Пензенская область, Россия]]></name>
+  <name><![CDATA[[ЧЕРНОВИК] Кучки, Пензенская область, Россия]]></name>
   <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%87%D0%BA%D0%B8_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F?1" rel="alternate" type="text/html" />
   <atom:author><atom:name>Humbert</atom:name></atom:author>
-  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%87%D0%BA%D0%B8_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F">Кучки, Пензенская область, Россия</a></p>]]></description>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%87%D0%BA%D0%B8_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F">[ЧЕРНОВИК] Кучки, Пензенская область, Россия</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>44.5221,52.9891</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-8c6219cc">
+  <name><![CDATA[Жабляк-Крново, Черногория]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B6%D0%B0%D0%B1%D0%BB%D1%8F%D0%BA-%D0%BA%D1%80%D0%BD%D0%BE%D0%B2%D0%BE?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий Роот</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B6%D0%B0%D0%B1%D0%BB%D1%8F%D0%BA-%D0%BA%D1%80%D0%BD%D0%BE%D0%B2%D0%BE">Жабляк-Крново, Черногория</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>19.1037,43.1227</coordinates></Point>
 </Placemark>
 </Document>
 </kml>
