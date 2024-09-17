@@ -28,7 +28,7 @@
 | Лётный сезон (норма)      | февраль                                                                                                                                                                                                                                                    |
 | Требуемый уровень пилота  | любой                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Карта термиков            | <ссылка на карту термиков, пример: [[https://thermal.kk7.ch/#4.343,-75.873,10|Здесь]]>                                                                                                                                                                                                                                                                                                                                          |
-| XContest                  | https://www.xcontest.org/world/en/flights-search/?filter[point]=-41.915932%20-18.886423&list[sort]=pts&list[dir]=down|Здесь]] >  |
+| XContest                  | [[https://www.xcontest.org/world/en/flights-search/?filter[point]=-41.915932%20-18.886423&list[sort]=pts&list[dir]=down|Здесь]]   |
 
 FIXME инфографика с маршрутной статистикой, рекордами и гистограммой треков
 
