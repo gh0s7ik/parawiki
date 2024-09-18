@@ -29,7 +29,7 @@
 | Лётный сезон (пик)        | декабрь -февраль|
 | Лётный сезон (норма)      | апрель                                                                                                                                                                                                                                                    |
 | Требуемый уровень пилота  | опытный                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Карта термиков            | [[https://thermal.kk7.ch/#19.183,-100.129|Здесь]]>                                                                                                                                                                                                                                                                                                                                          |
+| Карта термиков            | [[https://thermal.kk7.ch/#19.183,-100.129,13|Здесь]]|
 | XContest                  | [[https://www.xcontest.org/world/en/flights-search/?filter%5Bpoint%5D=-99.72064+18.839595&filter%5Bradius%5D=10000&filter%5Bmode%5D=START&filter%5Bdate_mode%5D=dmy&filter%5Bdate%5D=&filter%5Bvalue_mode%5D=dst&filter%5Bmin_value_dst%5D=&filter%5Bcatg%5D=&filter%5Broute_types%5D=&filter%5Bavg%5D=&filter%5Bpilot%5D=&list%5Bsort%5D=pts&list%5Bdir%5D=down| Полеты от Валле де Браво]]||
 
 FIXME инфографика с маршрутной статистикой, рекордами и гистограммой треков
