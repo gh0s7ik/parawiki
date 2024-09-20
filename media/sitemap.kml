@@ -3,7 +3,7 @@
 <Document id="root_doc">
 <name>Paragliding Sites spatial sitemap</name>
 <atom:link href="https://paraspots.wiki/" rel="related" type="text/html" />
-<!-- atom:updated>2024-09-18T20:51:37+00:00</atom:updated -->
+<!-- atom:updated>2024-09-19T20:54:01+00:00</atom:updated -->
 <Style id="icon"><IconStyle><color>ffffffff</color><scale>1</scale><Icon><href>/lib/plugins/spatialhelper/wikiitem.png</href></Icon></IconStyle></Style>
 <Placemark id="crc32-4842cec7">
   <name><![CDATA[Roldanillo, Колумбия]]></name>
@@ -50,6 +50,22 @@
   <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/vrsac?1" rel="alternate" type="text/html" />
   <atom:author><atom:name>Evgenii Kostogorov</atom:name></atom:author>
   <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/vrsac">[ЧЕРНОВИК] Vršac, Сербия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>0.0000,0.0000</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-40c20946">
+  <name><![CDATA[[ЧЕРНОВИК] Аслыкуль, Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D1%81%D0%BB%D1%8B%D0%BA%D1%83%D0%BB%D1%8C?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Алексей</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D1%81%D0%BB%D1%8B%D0%BA%D1%83%D0%BB%D1%8C">[ЧЕРНОВИК] Аслыкуль, Россия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>0.0000,0.0000</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-e55fcbc9">
+  <name><![CDATA[[ЧЕРНОВИК] Рыбушки, Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%80%D1%8B%D0%B1%D1%83%D1%88%D0%BA%D0%B8?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%80%D1%8B%D0%B1%D1%83%D1%88%D0%BA%D0%B8">[ЧЕРНОВИК] Рыбушки, Россия</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>0.0000,0.0000</coordinates></Point>
 </Placemark>
