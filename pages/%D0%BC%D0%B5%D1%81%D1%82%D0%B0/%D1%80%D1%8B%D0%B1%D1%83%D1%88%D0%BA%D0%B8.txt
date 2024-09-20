@@ -96,10 +96,13 @@ FIXME инфографика с маршрутной статистикой, р�
 ==== Как добраться ====
 === Из Саратова ===
 
-Рейсовый автобус из Саратова 225 
+Рейсовый автобус из Саратова 285 
+[[https://xn--80aaaaeftwb3cpelpciou.xn--p1ai/285-saratov| Расписание автобуса]]
+
 Ближайшие железнодорожные станции – Паницкая и Горючка
 
-https://yandex.ru/maps/?ll=45.643748%2C51.389521&mode=routes&rtext=51.541740%2C45.999017~51.277154%2C45.444396&rtt=mt&ruri=ymapsbm1%3A%2F%2Forg%3Foid%3D1070921653~ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgg1MzA5NzM0MBJn0KDQvtGB0YHQuNGPLCDQvNGD0L3QuNGG0LjQv9Cw0LvRjNC90L7QtSDQvtCx0YDQsNC30L7QstCw0L3QuNC1INCh0LDRgNCw0YLQvtCyLCDRgdC10LvQviDQoNGL0LHRg9GI0LrQsCIKDRDHNUIVzhtNQg%2C%2C&z=10.81
+[[https://yandex.ru/maps/?ll=45.643748%2C51.389521&mode=routes&rtext=51.541740%2C45.999017~51.277154%2C45.444396&rtt=mt&ruri=ymapsbm1%3A%2F%2Forg%3Foid%3D1070921653~ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgg1MzA5NzM0MBJn0KDQvtGB0YHQuNGPLCDQvNGD0L3QuNGG0LjQv9Cw0LvRjNC90L7QtSDQvtCx0YDQsNC30L7QstCw0L3QuNC1INCh0LDRgNCw0YLQvtCyLCDRgdC10LvQviDQoNGL0LHRg9GI0LrQsCIKDRDHNUIVzhtNQg%2C%2C&z=10.81| Маршрут от жд вокзала]]
+
 </hidden>
 
 ==== Деньги ====
