@@ -3,7 +3,7 @@
 <Document id="root_doc">
 <name>Paragliding Sites spatial sitemap</name>
 <atom:link href="https://paraspots.wiki/" rel="related" type="text/html" />
-<!-- atom:updated>2024-09-21T20:54:20+00:00</atom:updated -->
+<!-- atom:updated>2024-09-22T19:09:07+00:00</atom:updated -->
 <Style id="icon"><IconStyle><color>ffffffff</color><scale>1</scale><Icon><href>/lib/plugins/spatialhelper/wikiitem.png</href></Icon></IconStyle></Style>
 <Placemark id="crc32-4842cec7">
   <name><![CDATA[Roldanillo, Колумбия]]></name>
@@ -117,3 +117,412 @@
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>43.0331,43.9739</coordinates></Point>
 </Placemark>
+<Placemark id="crc32-30e98710">
+  <name><![CDATA[Phu thap boek, Таиланд]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/phu_thap_boek?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/phu_thap_boek">Phu thap boek, Таиланд</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>101.1289,16.9466</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-30e98710">
+  <name><![CDATA[Phu thap boek, Таиланд]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/phu_thap_boek?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/phu_thap_boek">Phu thap boek, Таиланд</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>101.1289,16.9466</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-58605be7">
+  <name><![CDATA[Wat Prong Chang Pha Sawan, Таиланд]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/wat_prong_chang_pha_sawan?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/wat_prong_chang_pha_sawan">Wat Prong Chang Pha Sawan, Таиланд</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>102.0986,16.0789</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-8ce26881">
+  <name><![CDATA[Рио-де-жанейро, Бразилия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%80%D0%B8%D0%BE-%D0%B4%D0%B5-%D0%B6%D0%B0%D0%BD%D0%B5%D0%B9%D1%80%D0%BE?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Maxim</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%80%D0%B8%D0%BE-%D0%B4%D0%B5-%D0%B6%D0%B0%D0%BD%D0%B5%D0%B9%D1%80%D0%BE">Рио-де-жанейро, Бразилия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>-43.2732,-23.0010</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-8ce26881">
+  <name><![CDATA[Рио-де-жанейро, Бразилия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%80%D0%B8%D0%BE-%D0%B4%D0%B5-%D0%B6%D0%B0%D0%BD%D0%B5%D0%B9%D1%80%D0%BE?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Maxim</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%80%D0%B8%D0%BE-%D0%B4%D0%B5-%D0%B6%D0%B0%D0%BD%D0%B5%D0%B9%D1%80%D0%BE">Рио-де-жанейро, Бразилия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>-43.2732,-23.0010</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-ce09dcf3">
+  <name><![CDATA[Khao sadao, Таиланд]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/khao_sadao?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/khao_sadao">Khao sadao, Таиланд</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>101.601,14.9186</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-34c561ad">
+  <name><![CDATA[[ЧЕРНОВИК] Khao phaya, Таиланд]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/khao_phaya?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/khao_phaya">[ЧЕРНОВИК] Khao phaya, Таиланд</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>100.9613,14.9237</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-5abff82f">
+  <name><![CDATA[Nong yai, Таиланд]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/nong_yai?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/nong_yai">Nong yai, Таиланд</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>101.2455,13.0910</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-51c956ac">
+  <name><![CDATA[Bassano, Италия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/bassano?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/bassano">Bassano, Италия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>11.7702,45.8082</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-a363109b">
+  <name><![CDATA[Sestola, Италия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_sestola?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Екатерина Демьянова</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_sestola">Sestola, Италия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>10.7444,44.2216</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-a363109b">
+  <name><![CDATA[Sestola, Италия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_sestola?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Екатерина Демьянова</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_sestola">Sestola, Италия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>10.7444,44.2216</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-23cc3a36">
+  <name><![CDATA[Журавли, Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B6%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D0%B8_%D0%BA%D0%BE%D0%BD%D1%87%D0%B8%D0%BD%D0%BA%D0%B0?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Екатерина Демьянова</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B6%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D0%B8_%D0%BA%D0%BE%D0%BD%D1%87%D0%B8%D0%BD%D0%BA%D0%B0">Журавли, Россия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>37.9649,54.6641</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-23cc3a36">
+  <name><![CDATA[Журавли, Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B6%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D0%B8_%D0%BA%D0%BE%D0%BD%D1%87%D0%B8%D0%BD%D0%BA%D0%B0?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Екатерина Демьянова</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B6%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D0%B8_%D0%BA%D0%BE%D0%BD%D1%87%D0%B8%D0%BD%D0%BA%D0%B0">Журавли, Россия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>37.9649,54.6641</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-ed25cf08">
+  <name><![CDATA[Бишкек, Кыргызстан]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B1%D0%B8%D1%88%D0%BA%D0%B5%D0%BA?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий Роот</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B1%D0%B8%D1%88%D0%BA%D0%B5%D0%BA">Бишкек, Кыргызстан</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>74.603761,42.687310</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-34c04f1c">
+  <name><![CDATA[Суусамыр, Кыргызстан]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D1%83%D1%83%D1%81%D0%B0%D0%BC%D1%8B%D1%80?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий Роот</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D1%83%D1%83%D1%81%D0%B0%D0%BC%D1%8B%D1%80">Суусамыр, Кыргызстан</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>73.699143,42.220142</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-83226075">
+  <name><![CDATA[Токтогуль, Кыргызстан]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%BE%D0%BA%D1%82%D0%BE%D0%B3%D1%83%D0%BB%D1%8C?1" rel="alternate" type="text/html" />
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%BE%D0%BA%D1%82%D0%BE%D0%B3%D1%83%D0%BB%D1%8C">Токтогуль, Кыргызстан</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>72.913360,41.751422</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-67be45db">
+  <name><![CDATA[Крушево, Македония]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%80%D1%83%D1%88%D0%B5%D0%B2%D0%BE_%D0%BC%D0%B0%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Леонид</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%80%D1%83%D1%88%D0%B5%D0%B2%D0%BE_%D0%BC%D0%B0%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F">Крушево, Македония</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>21.255958,41.340056,1443</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-67be45db">
+  <name><![CDATA[Крушево, Македония]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%80%D1%83%D1%88%D0%B5%D0%B2%D0%BE_%D0%BC%D0%B0%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Леонид</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%80%D1%83%D1%88%D0%B5%D0%B2%D0%BE_%D0%BC%D0%B0%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F">Крушево, Македония</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>21.255958,41.340056,1443</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-5c733a3f">
+  <name><![CDATA[Ушконыр, Казахстан]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%83%D1%88%D0%BA%D0%BE%D0%BD%D1%8B%D1%80?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>KG</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%83%D1%88%D0%BA%D0%BE%D0%BD%D1%8B%D1%80">Ушконыр, Казахстан</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>76.468194,43.126390</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-c379838e">
+  <name><![CDATA[Солоновка, Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Roman Nikitin</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D0%BE%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0">Солоновка, Россия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>84.5885,51.9722</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-e524287d">
+  <name><![CDATA[Курай, Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Roman Nikitin</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9">Курай, Россия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>87.930077,50.232701</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-e524287d">
+  <name><![CDATA[Курай, Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Roman Nikitin</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9">Курай, Россия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>87.930077,50.232701</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-e524287d">
+  <name><![CDATA[Курай, Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Roman Nikitin</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%80%D0%B0%D0%B9">Курай, Россия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>87.930077,50.232701</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-8c0fde84">
+  <name><![CDATA[Суздаль, Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D1%83%D0%B7%D0%B4%D0%B0%D0%BB%D1%8C?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D1%83%D0%B7%D0%B4%D0%B0%D0%BB%D1%8C">Суздаль, Россия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>40.4816,56.4846</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-8c0fde84">
+  <name><![CDATA[Суздаль, Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D1%83%D0%B7%D0%B4%D0%B0%D0%BB%D1%8C?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%81%D1%83%D0%B7%D0%B4%D0%B0%D0%BB%D1%8C">Суздаль, Россия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>40.4816,56.4846</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-5b89cdda">
+  <name><![CDATA[Будва-Петровац, Черногория]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B1%D1%83%D0%B4%D0%B2%D0%B0-%D0%BF%D0%B5%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%86?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий Роот</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B1%D1%83%D0%B4%D0%B2%D0%B0-%D0%BF%D0%B5%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%86">Будва-Петровац, Черногория</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>18.8733,42.2819</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-a69f77f3">
+  <name><![CDATA[Орловка, Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BB%D0%B8%D0%BF%D0%B5%D1%86%D0%BA?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BB%D0%B8%D0%BF%D0%B5%D1%86%D0%BA">Орловка, Россия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>39.9269,53.4016</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-a69f77f3">
+  <name><![CDATA[Орловка, Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BB%D0%B8%D0%BF%D0%B5%D1%86%D0%BA?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BB%D0%B8%D0%BF%D0%B5%D1%86%D0%BA">Орловка, Россия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>39.9269,53.4016</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-4f084f1b">
+  <name><![CDATA[Rajac, Сербия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/rajac?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Evgenii Kostogorov</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/rajac">Rajac, Сербия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>20.2372,44.1438,635</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-4f084f1b">
+  <name><![CDATA[Rajac, Сербия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/rajac?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Evgenii Kostogorov</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/rajac">Rajac, Сербия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>20.2372,44.1438,635</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-c2775ee8">
+  <name><![CDATA[Андриевица-Плав, Черногория]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий Роот</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2">Андриевица-Плав, Черногория</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>19.7924,42.7339</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-c2775ee8">
+  <name><![CDATA[Андриевица-Плав, Черногория]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий Роот</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D0%B2">Андриевица-Плав, Черногория</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>19.7924,42.7339</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-57a92536">
+  <name><![CDATA[Valle de Bravo, Мексика]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo">Valle de Bravo, Мексика</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>-100.1298,19.1836</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-57a92536">
+  <name><![CDATA[Valle de Bravo, Мексика]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valle_de_bravo">Valle de Bravo, Мексика</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>-100.1298,19.1836</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-d42f58b7">
+  <name><![CDATA[Oludeniz, Турция]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Alexey Kalchenko</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz">Oludeniz, Турция</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>29.1243,36.5449</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-d42f58b7">
+  <name><![CDATA[Oludeniz, Турция]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Alexey Kalchenko</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/oludeniz">Oludeniz, Турция</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>29.1243,36.5449</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-b8155db2">
+  <name><![CDATA[[ЧЕРНОВИК] Название лётного места, <Страна лётного места>]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>E</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5">[ЧЕРНОВИК] Название лётного места, <Страна лётного места></a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>1.2345,1.2345</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-b8155db2">
+  <name><![CDATA[[ЧЕРНОВИК] Название лётного места, <Страна лётного места>]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>E</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5">[ЧЕРНОВИК] Название лётного места, <Страна лётного места></a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>1.2345,1.2345</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-b8155db2">
+  <name><![CDATA[[ЧЕРНОВИК] Название лётного места, <Страна лётного места>]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>E</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5">[ЧЕРНОВИК] Название лётного места, <Страна лётного места></a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>1.2345,1.2345</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-71bc8009">
+  <name><![CDATA[Текели, Казахстан]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D0%BA%D0%B5%D0%BB%D0%B8?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Алексей Тарасов</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D0%BA%D0%B5%D0%BB%D0%B8">Текели, Казахстан</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>78.6542,44.8440</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-71bc8009">
+  <name><![CDATA[Текели, Казахстан]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D0%BA%D0%B5%D0%BB%D0%B8?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Алексей Тарасов</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%82%D0%B5%D0%BA%D0%B5%D0%BB%D0%B8">Текели, Казахстан</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>78.6542,44.8440</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-16d11df0">
+  <name><![CDATA[La Malinche, Мексика]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche">La Malinche, Мексика</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>-99.5972,18.9225</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-16d11df0">
+  <name><![CDATA[La Malinche, Мексика]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/la_malinche">La Malinche, Мексика</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>-99.5972,18.9225</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-0dcc466f">
+  <name><![CDATA[Ixtapan, Мексика]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan">Ixtapan, Мексика</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>-99.7395,18.8977</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-0dcc466f">
+  <name><![CDATA[Ixtapan, Мексика]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/ixtapan">Ixtapan, Мексика</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>-99.7395,18.8977</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-448cae68">
+  <name><![CDATA[[ЧЕРНОВИК] Кучки, Пензенская область, Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%87%D0%BA%D0%B8_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D1%87%D0%BA%D0%B8_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F">[ЧЕРНОВИК] Кучки, Пензенская область, Россия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>44.5221,52.9891</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-8c6219cc">
+  <name><![CDATA[Жабляк-Крново, Черногория]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B6%D0%B0%D0%B1%D0%BB%D1%8F%D0%BA-%D0%BA%D1%80%D0%BD%D0%BE%D0%B2%D0%BE?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий Роот</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B6%D0%B0%D0%B1%D0%BB%D1%8F%D0%BA-%D0%BA%D1%80%D0%BD%D0%BE%D0%B2%D0%BE">Жабляк-Крново, Черногория</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>19.1037,43.1227</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-7c3a27ab">
+  <name><![CDATA[Baixo guandu, Бразилия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/baixo_guandu?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/baixo_guandu">Baixo guandu, Бразилия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>-40.9676,-19.6317</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-7c3a27ab">
+  <name><![CDATA[Baixo guandu, Бразилия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/baixo_guandu?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/baixo_guandu">Baixo guandu, Бразилия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>-40.9676,-19.6317</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-5e8d3b9b">
+  <name><![CDATA[Valadares, Бразилия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valadares?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/valadares">Valadares, Бразилия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>-41.9146,-18.8867</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-7c6693f9">
+  <name><![CDATA[Мойковац, Черногория]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BC%D0%BE%D0%B9%D0%BA%D0%BE%D0%B2%D0%B0%D1%86?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий Роот</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BC%D0%BE%D0%B9%D0%BA%D0%BE%D0%B2%D0%B0%D1%86">Мойковац, Черногория</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>19.5350,42.9727</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
