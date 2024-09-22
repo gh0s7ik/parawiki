@@ -6,7 +6,7 @@
 {{:места:hills_t.png?nolink&70|}}{{:места:mountains_t.png?nolink&70|}}
 
 ----
-{{:места:mexico:mexico:49565045_h0n-nokdaybsfsteyefv9iox6ubbyisxmxth5t-cesc.jpg?400|}}
+{{ :места:mexico:mexico:49565045_h0n-nokdaybsfsteyefv9iox6ubbyisxmxth5t-cesc.jpg?400 |}}
 Традиционное место зимовки парапланеристов США и Канады
 
 **Страна:** [[страны:мексика|Мексика]] 
