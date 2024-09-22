@@ -29,7 +29,7 @@
 | Лётный сезон (норма)      | Апрель-сентябрь                                                                                                                                                                                                                                                    |
 | Требуемый уровень пилота  | Уверенный старт на малинке                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Карта термиков            | [[https://thermal.kk7.ch/#52.9891,44.5221,12|Здесь]]                                                                                                                                                                                                                                                                                                                                          |
-| XContest                  | [[https://www.xcontest.org/world/en/flights-search/?filter[point]=37.977278%2054.668523&list[sort]=pts&list[dir]=down|Здесь]]   |
+| XContest                  | [[https://www.xcontest.org/world/en/flights-search/?list[sort]=time_start&filter[point]=44.60148%2053.04688&filter[radius]=10330&filter[mode]=START&filter[date_mode]=dmy&filter[date]=&filter[value_mode]=dst&filter[min_value_dst]=&filter[catg]=&filter[route_types]=&filter[avg]=&filter[pilot]=|Здесь]]   |
 
 FIXME инфографика с маршрутной статистикой, рекордами и гистограммой треков
 
