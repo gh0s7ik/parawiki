@@ -3,7 +3,7 @@
 <Document id="root_doc">
 <name>Paragliding Sites spatial sitemap</name>
 <atom:link href="https://paraspots.wiki/" rel="related" type="text/html" />
-<!-- atom:updated>2024-09-25T19:32:54+00:00</atom:updated -->
+<!-- atom:updated>2024-09-28T19:44:00+00:00</atom:updated -->
 <Style id="icon"><IconStyle><color>ffffffff</color><scale>1</scale><Icon><href>/lib/plugins/spatialhelper/wikiitem.png</href></Icon></IconStyle></Style>
 <Placemark id="crc32-4842cec7">
   <name><![CDATA[Roldanillo, Колумбия]]></name>
