@@ -157,7 +157,7 @@ https://maps.app.goo.gl/tjEY7k8mPYEmCpLU7
 ===== Полезные ресурсы =====
 <Ссылки на чатики и иные ресурсы, посвящённые данному месту>
 
-[[https://ofsla.ru/trips/all/phu-thap-boek|Календарь выездов ОФСЛА
+[[https://ofsla.ru/trips/all/phu-thap-boek?mode=tiles|Календарь выездов ОФСЛА
 ]]
 ===== Смотри также (места рядом) =====
 [[регионы:phetchabun|Другие места данного региона]]
