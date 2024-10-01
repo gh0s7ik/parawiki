@@ -67,7 +67,7 @@ FIXME инфографика с маршрутной статистикой, р�
 ** Маршруты: **
   * <типовые маршруты>
   * <ссылка на XContest, пример: [[https://www.xcontest.org/world/en/flights-search/?filter   %5Bpoint   %5D=-76.21082+4.4044&filter   %5Bradius   %5D=500&filter   %5Bmode   %5D=START&filter   %5Bdate_mode   %5D=dmy&filter   %5Bdate   %5D=&filter   %5Bvalue_mode   %5D=dst&filter   %5Bmin_value_dst   %5D=&filter   %5Bcatg   %5D=&filter   %5Broute_types   %5D=&filter   %5Bavg   %5D=&filter   %5Bpilot   %5D=&list   %5Bsort   %5D=pts&list   %5Bdir   %5D=down|XContest для данного старта]] >
-  * <рекорд, пример: [[https://www.xcontest.org/world/en/flights/detail:Kevin.Philipp/27.1.2024/14:02|Текущий рекорд треугольника FAI = 236km]] >
+  * [[https://www.xcontest.org/2024/world/en/flights/detail:bibo/20.1.2024/04:15|Текущий рекорд треугольника FAI = 109km]] >
 
 ** Комментарии: **
 
