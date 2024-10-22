@@ -91,8 +91,8 @@ FIXME описать
 Один из возможных вариантов - это проход на Karkin в соответствии с предыдущим разделом, и дальше вдоль хребта на север. Несмотря на кажущуюся беспосадочность, в соответствующем ущелье есть несколько вполне пригодных посадок:
   * [[https://maps.app.goo.gl/KVZHkF8QABwQd5HT9|на дорогу]], фото:
 <gallery>
-:места:olu:far:land_camroad1x.jpg
-:места:olu:far:land_camroad2x.jpg
+:места:olu:far:land_camroad1.jpg
+:места:olu:far:land_camroad2.jpg
 </gallery>
   * [[https://maps.app.goo.gl/CYqPhS5YysUx7mLc9|ещё на дорогу]], фото:
 <gallery>
