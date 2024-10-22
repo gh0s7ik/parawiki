@@ -90,8 +90,22 @@ FIXME описать
 ==== Маршрут в Чамели ====
 Один из возможных вариантов - это проход на Karkin в соответствии с предыдущим разделом, и дальше вдоль хребта на север. Несмотря на кажущуюся беспосадочность, в соответствующем ущелье есть несколько вполне пригодных посадок:
   * [[https://maps.app.goo.gl/KVZHkF8QABwQd5HT9|на дорогу]], фото:
+<gallery>
+:места:olu:far:land_camroad1.jpg
+:места:olu:far:land_camroad2.jpg
+</gallery>
   * [[https://maps.app.goo.gl/CYqPhS5YysUx7mLc9|ещё на дорогу]], фото:
+<gallery>
+:места:olu:far:land_camroad2_1.jpg
+:места:olu:far:land_camroad2_2.jpg
+:места:olu:far:land_camroad2_3.jpg
+</gallery>
   * [[https://maps.app.goo.gl/Ke2HCyZb3CQXyxoEA|на площадки рядом с дорогой]], фото:
+<gallery>
+:места:olu:far:land_camroad3_1.jpg
+:места:olu:far:land_camroad3_2.jpg
+:места:olu:far:land_camroad3_3.jpg
+</gallery>
   * [[https://maps.app.goo.gl/oK1uu56mmeEXNBa59|на дорогу или где-то рядом]], фото:
 
 Ветер в ущелье на момент просмотра (примерно 16.00) в сторону Чамели, от штиля до где-то 7 м/с. По всей видимости в пик погоды или при сильном метеоветре может быть и значительно больше. 
