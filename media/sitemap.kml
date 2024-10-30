@@ -3,7 +3,7 @@
 <Document id="root_doc">
 <name>Paragliding Sites spatial sitemap</name>
 <atom:link href="https://paraspots.wiki/" rel="related" type="text/html" />
-<!-- atom:updated>2024-10-28T08:05:31+00:00</atom:updated -->
+<!-- atom:updated>2024-10-30T08:13:32+00:00</atom:updated -->
 <Style id="icon"><IconStyle><color>ffffffff</color><scale>1</scale><Icon><href>/lib/plugins/spatialhelper/wikiitem.png</href></Icon></IconStyle></Style>
 <Placemark id="crc32-4842cec7">
   <name><![CDATA[Roldanillo, Колумбия]]></name>
@@ -579,6 +579,14 @@
   <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D1%83%D0%BD%D0%B3%D1%83%D1%80">Кунгур, Россия</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>56.8811,57.3938</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-0a0e0911">
+  <name><![CDATA[Keylong, Индия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/keylong?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Дмитрий</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/keylong">Keylong, Индия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>77.0249,32.5791</coordinates></Point>
 </Placemark>
 </Document>
 </kml>
