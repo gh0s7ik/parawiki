@@ -1,9 +1,9 @@
 ~~NOABSTRACT~~
 ====== Nong yai, Таиланд ======
 
-**Альтернативное написание:** <пример: Nazvanie luetnogo mesta, Name of this flying spot>
+{{:места:thai.jpg?400|}}
 
-{{:места:thai.jpg?400|}}{{:места:plains_t.png?nolink&70|}}{{:места:hills_t.png?nolink&70|}}
+{{:места:plains_t.png?nolink&70|}}{{:места:hills_t.png?nolink&70|}}
 
 ----
 
