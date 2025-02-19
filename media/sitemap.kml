@@ -3,7 +3,7 @@
 <Document id="root_doc">
 <name>Paragliding Sites spatial sitemap</name>
 <atom:link href="https://paraspots.wiki/" rel="related" type="text/html" />
-<!-- atom:updated>2025-02-13T22:22:59+00:00</atom:updated -->
+<!-- atom:updated>2025-02-19T04:11:22+00:00</atom:updated -->
 <Style id="icon"><IconStyle><color>ffffffff</color><scale>1</scale><Icon><href>/lib/plugins/spatialhelper/wikiitem.png</href></Icon></IconStyle></Style>
 <Placemark id="crc32-4842cec7">
   <name><![CDATA[Roldanillo, Колумбия]]></name>
@@ -50,6 +50,14 @@
   <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%80%D1%8B%D0%B1%D1%83%D1%88%D0%BA%D0%B8?1" rel="alternate" type="text/html" />
   <atom:author><atom:name>Humbert</atom:name></atom:author>
   <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%80%D1%8B%D0%B1%D1%83%D1%88%D0%BA%D0%B8">[ЧЕРНОВИК] Рыбушки, Россия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>0.0000,0.0000</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-da5fc791">
+  <name><![CDATA[[ЧЕРНОВИК] Linzhou, Китай]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/linzhou?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Alexey Ivakhin</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/linzhou">[ЧЕРНОВИК] Linzhou, Китай</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>0.0000,0.0000</coordinates></Point>
 </Placemark>
