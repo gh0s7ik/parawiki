@@ -37,7 +37,7 @@
   * [[https://aliexpress.ru/item/1005006825494438.html?sku_id=12000038431183140&spm=a2g2w.productlist.search_results.9.3fddc258z2l5mz|LILYGO TTGO Meshtastic T-Echo модуль на AliExpress]]
 
 «Правильные» антенны 868 МГц:
-  * [[https://www.ozon.ru/product/oz-sunba-5dbi-868mhz-gelievaya-antenna-lora-lorawan-rp-sma-male-female-pin-antenna-dlya-1848092218/?at=WPtN471llS87YKB4HJg4EjVTPNER4WsAYK474uPq7w4K&avtc=1&avte=4&avts=1738831365&keywords=антенна+868+мгц+lora|На OZON]]
+  * [[https://www.ozon.ru/search/?text=%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D0%BD%D0%B0+868+%D0%BC%D0%B3%D1%86+lora&from_global=true|На OZON]]
   * [[https://aliexpress.ru/item/1005007260347766.html?spm=a2g2w.orderdetail.0.0.622f4aa6mBvcfI&sku_id=12000039979855385|На AliExpress]]
 
 **Обратите внимание**, что продавцы на AliExpress не всегда готовы отправлять уже купленные устройства в Россию.
