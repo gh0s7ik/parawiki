@@ -85,6 +85,5 @@ PureTrack работает со многими популярными прило
 
 ==== Полезные ссылки ====
   * Сайт отслеживания пилотов [[https://puretrack.io|PureTrack.io]] с различными устройствами и приложениями
-  * Сайт отслеживания [[https://live.paratracker.in|live.paratracker.in]] устройств Meshtastic.
   * Сайт [[https://www.paratracker.in|paratracker.in]] с информацией о **Bir Mesh Network** (анг.)
-  * Группа в Telegram [[https://t.me/BirParaglidingCommunity|Bir Paragliding Community]] (анг.) и [[https://t.me/BirParaglidingCommunity/2166|раздел в группе]], в которую транслируются сообщения с устройств Mestastic.
+  * Группа в Telegram [[https://t.me/BirParaglidingCommunity|Bir Paragliding Community]] (анг.)
