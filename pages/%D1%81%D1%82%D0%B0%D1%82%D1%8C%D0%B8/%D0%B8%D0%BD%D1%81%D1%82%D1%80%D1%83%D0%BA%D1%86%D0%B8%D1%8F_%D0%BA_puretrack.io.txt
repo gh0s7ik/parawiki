@@ -1,4 +1,4 @@
-====== Инструкция к карте puretrack.io ======
+====== PureTrack.io. Инструкция  ======
 ==== Что такое PureTrack.io? ====
 === Зачем нужен puretrack.io? ===
 На сайте [[https://puretrack.io|PureTrack.io]] отслеживаются треки пилотов в реальном времени.
