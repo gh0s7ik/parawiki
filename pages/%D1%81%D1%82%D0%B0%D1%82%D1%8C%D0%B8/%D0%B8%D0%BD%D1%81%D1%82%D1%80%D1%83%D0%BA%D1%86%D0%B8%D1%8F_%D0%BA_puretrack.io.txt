@@ -69,7 +69,7 @@ ID устройства выглядит примерно так: !6c25eaf0
 и при условии, что есть сотовая связь и данные передаются на сайт XContest.
 
 ==== Полезные ссылки ====
-Сайт отслеживания пилотов [[https://puretrack.io|PureTrack.io]] с различными устройствами и приложениями
-Сайт отслеживания [[https://live.paratracker.in|live.paratracker.in]] устройств Meshtastic.
-Сайт [[https://www.paratracker.in|paratracker.in]] с информацией о **Bir Mesh Network** (анг.)
-Группа в Telegram [[https://t.me/BirParaglidingCommunity|Bir Paragliding Community]] (анг.) и [[https://t.me/BirParaglidingCommunity/2166|раздел в группе]], в которую транслируются сообщения с устройств Mestastic.
+  * Сайт отслеживания пилотов [[https://puretrack.io|PureTrack.io]] с различными устройствами и приложениями
+  * Сайт отслеживания [[https://live.paratracker.in|live.paratracker.in]] устройств Meshtastic.
+  * Сайт [[https://www.paratracker.in|paratracker.in]] с информацией о **Bir Mesh Network** (анг.)
+  * Группа в Telegram [[https://t.me/BirParaglidingCommunity|Bir Paragliding Community]] (анг.) и [[https://t.me/BirParaglidingCommunity/2166|раздел в группе]], в которую транслируются сообщения с устройств Mestastic.
