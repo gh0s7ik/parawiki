@@ -3,7 +3,7 @@
 <Document id="root_doc">
 <name>Paragliding Sites spatial sitemap</name>
 <atom:link href="https://paraspots.wiki/" rel="related" type="text/html" />
-<!-- atom:updated>2025-02-25T13:56:46+00:00</atom:updated -->
+<!-- atom:updated>2025-03-07T14:00:12+00:00</atom:updated -->
 <Style id="icon"><IconStyle><color>ffffffff</color><scale>1</scale><Icon><href>/lib/plugins/spatialhelper/wikiitem.png</href></Icon></IconStyle></Style>
 <Placemark id="crc32-4842cec7">
   <name><![CDATA[Roldanillo, Колумбия]]></name>
@@ -18,14 +18,6 @@
   <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/deltota_%D1%88%D1%80%D0%B8-%D0%BB%D0%B0%D0%BD%D0%BA%D0%B0?1" rel="alternate" type="text/html" />
   <atom:author><atom:name>Олег</atom:name></atom:author>
   <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/deltota_%D1%88%D1%80%D0%B8-%D0%BB%D0%B0%D0%BD%D0%BA%D0%B0">[ЧЕРНОВИК] Deltota, Шри-Ланка</a></p>]]></description>
-  <styleUrl>#icon</styleUrl>
-  <Point><coordinates>0.0000,0.0000</coordinates></Point>
-</Placemark>
-<Placemark id="crc32-bc5f54a0">
-  <name><![CDATA[Голениха , Россия]]></name>
-  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%85%D0%B0_%D1%80%D0%BE%D1%81%D1%81%D1%81%D0%B8%D1%8F?1" rel="alternate" type="text/html" />
-  <atom:author><atom:name>Humbert</atom:name></atom:author>
-  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%85%D0%B0_%D1%80%D0%BE%D1%81%D1%81%D1%81%D0%B8%D1%8F">Голениха , Россия</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>0.0000,0.0000</coordinates></Point>
 </Placemark>
@@ -58,6 +50,14 @@
   <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/linzhou?1" rel="alternate" type="text/html" />
   <atom:author><atom:name>Alexey Ivakhin</atom:name></atom:author>
   <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/linzhou">[ЧЕРНОВИК] Linzhou, Китай</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>0.0000,0.0000</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-018d735d">
+  <name><![CDATA[Голениха , Россия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%85%D0%B0?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Humbert</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%85%D0%B0">Голениха , Россия</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>0.0000,0.0000</coordinates></Point>
 </Placemark>
