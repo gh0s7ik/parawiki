@@ -5,8 +5,8 @@
 <dc:publisher>Paragliding Sites</dc:publisher>
 <link href="https://paraspots.wiki/" />
 <link href="https://paraspots.wiki/_media/sitemap.georss" rel="self" />
-<updated>2025-06-02T20:57:06+00:00</updated>
-<id>tag:paraspots.wiki,2025-06-02:/_media/sitemap.georss</id>
+<updated>2025-06-03T20:57:06+00:00</updated>
+<id>tag:paraspots.wiki,2025-06-03:/_media/sitemap.georss</id>
 <rights>cc-by-sa</rights>
 <entry>
   <title>Roldanillo, Колумбия</title>
@@ -67,6 +67,16 @@
   <updated>2025-02-25T22:24:06+00:00</updated>
   <published>2024-09-16T06:59:17+00:00</published>
   <id>tag:paraspots.wiki,2025-02-25:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D1%85%D0%B0</id>
+</entry>
+<entry>
+  <title>[ЧЕРНОВИК] Чегем, Россия</title>
+  <summary></summary>
+  <georss:point>0.0000 0.0000</georss:point>
+  <link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%87%D0%B5%D0%B3%D0%B5%D0%BC" rel="alternate" type="text/html" />
+  <author><name>Екатерина Демьянова</name></author>
+  <updated>2025-06-03T08:11:56+00:00</updated>
+  <published>2025-06-03T08:10:47+00:00</published>
+  <id>tag:paraspots.wiki,2025-06-03:/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%87%D0%B5%D0%B3%D0%B5%D0%BC</id>
 </entry>
 <entry>
   <title>Душанбе, Таджикистан</title>
