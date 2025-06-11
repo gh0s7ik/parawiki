@@ -27,7 +27,7 @@
 | Карта термиков            | [[https://thermal.kk7.ch/#47.641,12.414,12|Здесь]]                                                                                                                                                                                                                                                                     |
 | XContest                  | [[https://www.xcontest.org/2023/world/en/flights-search/?list[sort]=time_start&filter[point]=12.43171%2047.631833&filter[radius]=5000&filter[mode]=START&filter[date_mode]=dmy&filter[date]=&filter[value_mode]=dst&filter[min_value_dst]=&filter[catg]=FAI3&filter[route_types]=&filter[avg]=&filter[pilot]=|Здесь]]  |
 
-FIXME инфографика с маршрутной статистикой, рекордами и гистограммой треков
+
 
 ==== Юридическая часть ====
   * <нужен ли какой-либо пермит/разрешение на полёты на всё лётное место?>
