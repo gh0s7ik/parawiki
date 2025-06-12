@@ -3,7 +3,7 @@
 <Document id="root_doc">
 <name>Paragliding Sites spatial sitemap</name>
 <atom:link href="https://paraspots.wiki/" rel="related" type="text/html" />
-<!-- atom:updated>2025-06-10T20:57:09+00:00</atom:updated -->
+<!-- atom:updated>2025-06-11T20:57:15+00:00</atom:updated -->
 <Style id="icon"><IconStyle><color>ffffffff</color><scale>1</scale><Icon><href>/lib/plugins/spatialhelper/wikiitem.png</href></Icon></IconStyle></Style>
 <Placemark id="crc32-4842cec7">
   <name><![CDATA[Roldanillo, Колумбия]]></name>
@@ -66,6 +66,22 @@
   <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%87%D0%B0%D0%BC%D0%B5%D0%BB%D0%B8?1" rel="alternate" type="text/html" />
   <atom:author><atom:name>KG</atom:name></atom:author>
   <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D1%87%D0%B0%D0%BC%D0%B5%D0%BB%D0%B8">[ЧЕРНОВИК] Чамели, Турция</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>0.0000,0.0000</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-3c6f4e43">
+  <name><![CDATA[[ЧЕРНОВИК] Грайфенбург, Австрия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D1%80%D0%B0%D0%B9%D1%84%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Diana Grig</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D1%80%D0%B0%D0%B9%D1%84%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3">[ЧЕРНОВИК] Грайфенбург, Австрия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>0.0000,0.0000</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-fabcc442">
+  <name><![CDATA[[ЧЕРНОВИК] Месолонги, Греция]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BC%D0%B5%D1%81%D0%BE%D0%BB%D0%BE%D0%BD%D0%B3%D0%B8?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Diana Grig</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BC%D0%B5%D1%81%D0%BE%D0%BB%D0%BE%D0%BD%D0%B3%D0%B8">[ЧЕРНОВИК] Месолонги, Греция</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>0.0000,0.0000</coordinates></Point>
 </Placemark>
@@ -643,6 +659,62 @@
   <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%BF%D1%83%D1%81%D1%82%D0%B5%D1%80%D1%82%D0%B0%D0%BB%D1%8C">[ЧЕРНОВИК] Долина Пустерталь, Италия</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>11.8979,46.9149</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-bfaecf80">
+  <name><![CDATA[озеро Гарда, Италия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D0%B0%D1%80%D0%B4%D0%B0?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Diana Grig</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D0%B0%D1%80%D0%B4%D0%B0">озеро Гарда, Италия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>10.8607,45.7767</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-b717934f">
+  <name><![CDATA[Кессен, Австрия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D0%B5%D1%81%D1%81%D0%B5%D0%BD?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Diana Grig</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D0%B5%D1%81%D1%81%D0%B5%D0%BD">Кессен, Австрия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>12.4318,47.6318</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-b717934f">
+  <name><![CDATA[Кессен, Австрия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D0%B5%D1%81%D1%81%D0%B5%D0%BD?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Diana Grig</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D0%B5%D1%81%D1%81%D0%B5%D0%BD">Кессен, Австрия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>12.4318,47.6318</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-364620a8">
+  <name><![CDATA[[ЧЕРНОВИК] Бецау, Австрия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B1%D0%B5%D1%86%D0%B0%D1%83?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Diana Grig</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B1%D0%B5%D1%86%D0%B0%D1%83">[ЧЕРНОВИК] Бецау, Австрия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>9.9410,47.3990</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-364620a8">
+  <name><![CDATA[[ЧЕРНОВИК] Бецау, Австрия]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B1%D0%B5%D1%86%D0%B0%D1%83?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Diana Grig</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B1%D0%B5%D1%86%D0%B0%D1%83">[ЧЕРНОВИК] Бецау, Австрия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>9.9410,47.3990</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-7b1ad2ae">
+  <name><![CDATA[Кефалония, Греция]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D0%B5%D1%84%D0%B0%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Diana Grig</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D0%B5%D1%84%D0%B0%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F">Кефалония, Греция</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>20.5426,38.3414</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-7b1ad2ae">
+  <name><![CDATA[Кефалония, Греция]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D0%B5%D1%84%D0%B0%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Diana Grig</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%BA%D0%B5%D1%84%D0%B0%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F">Кефалония, Греция</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>20.5426,38.3414</coordinates></Point>
 </Placemark>
 </Document>
 </kml>
