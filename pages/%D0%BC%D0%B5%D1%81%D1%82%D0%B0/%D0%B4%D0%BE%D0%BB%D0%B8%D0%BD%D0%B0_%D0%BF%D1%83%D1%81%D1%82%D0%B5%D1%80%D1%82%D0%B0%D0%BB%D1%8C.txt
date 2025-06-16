@@ -26,7 +26,6 @@
 | Карта термиков            | [[https://thermal.kk7.ch/#46.844,12.012,11|район Брунико]]                                                                                                                                                                                                                                                                                                                                          |
 | XContest                  | [[https://www.xcontest.org/2022/world/en/flights-search/?list[sort]=time_start&filter[point]=11.9513949531%2046.8556812749&filter[radius]=11320&filter[mode]=START&filter[date_mode]=dmy&filter[date]=&filter[value_mode]=dst&filter[min_value_dst]=&filter[catg]=FAI3&filter[route_types]=&filter[avg]=&filter[pilot]=|Здесь]]  |
 
-FIXME инфографика с маршрутной статистикой, рекордами и гистограммой треков
 
 ==== Юридическая часть ====
   * IPPI 5 
