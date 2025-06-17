@@ -160,7 +160,10 @@
 ...
 
 ==== Где жить ====
-Отели и кемпинги в гугл мепс https://maps.app.goo.gl/VtHom3vaNiyfuBD68
+Отели и кемпинги в гугл мепс
+  - Кемпинг 1 [[https://maps.app.goo.gl/tQQF6pu52otHbmGX6|camping 1]]
+  - Кемпинг 2 [[https://maps.app.goo.gl/bgQYwgKSqw79Mw9w6|camping 2]]
+  - Хостел Зонненхоф Sonnenhof. Удобен для большой группы, обеспечивает билетом по долине [[https://maps.app.goo.gl/asw7XVpfWoycmd2X6|sonnenhof]]
 
 ==== Где есть ====
 ...
