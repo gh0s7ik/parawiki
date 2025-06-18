@@ -68,6 +68,7 @@
 
 ** Маршруты: **
   * см в Полезной информации путевые точки
+  * типовой маршрут : sterzing vipiteno- kronplatz-dolomites-штатная посадка в Тауферс
   * рекорд [[https://www.xcontest.org/2017/world/en/flights/detail:soundglider/6.7.2017/07:48#fd=takeoff|Текущий рекорд треугольника FAI = 270]] 
 
 ** Комментарии: **
