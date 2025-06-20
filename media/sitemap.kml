@@ -3,7 +3,7 @@
 <Document id="root_doc">
 <name>Paragliding Sites spatial sitemap</name>
 <atom:link href="https://paraspots.wiki/" rel="related" type="text/html" />
-<!-- atom:updated>2025-06-17T20:57:18+00:00</atom:updated -->
+<!-- atom:updated>2025-06-20T21:06:04+00:00</atom:updated -->
 <Style id="icon"><IconStyle><color>ffffffff</color><scale>1</scale><Icon><href>/lib/plugins/spatialhelper/wikiitem.png</href></Icon></IconStyle></Style>
 <Placemark id="crc32-4842cec7">
   <name><![CDATA[Roldanillo, Колумбия]]></name>
@@ -74,6 +74,14 @@
   <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D1%80%D0%B0%D0%B9%D1%84%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3?1" rel="alternate" type="text/html" />
   <atom:author><atom:name>Diana Grig</atom:name></atom:author>
   <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B3%D1%80%D0%B0%D0%B9%D1%84%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3">[ЧЕРНОВИК] Грайфенбург, Австрия</a></p>]]></description>
+  <styleUrl>#icon</styleUrl>
+  <Point><coordinates>0.0000,0.0000</coordinates></Point>
+</Placemark>
+<Placemark id="crc32-c3085192">
+  <name><![CDATA[[ЧЕРНОВИК] Анси, Франция]]></name>
+  <atom:link href="/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D1%81%D0%B8?1" rel="alternate" type="text/html" />
+  <atom:author><atom:name>Diana Grig</atom:name></atom:author>
+  <description><![CDATA[<p></p><p><a href="https://paraspots.wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%B0/%D0%B0%D0%BD%D1%81%D0%B8">[ЧЕРНОВИК] Анси, Франция</a></p>]]></description>
   <styleUrl>#icon</styleUrl>
   <Point><coordinates>0.0000,0.0000</coordinates></Point>
 </Placemark>
