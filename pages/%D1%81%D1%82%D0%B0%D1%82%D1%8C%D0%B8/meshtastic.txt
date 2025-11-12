@@ -38,11 +38,11 @@
 Устройства:
   * [[https://www.ozon.ru/search/?text=LILYGO+TTGO+T-Beam+ESP32+Meshtastic+868+МГц&from_global=true|LILYGO TTGO T-Beam На OZON]]
   * [[https://aliexpress.ru/item/1005002988035811.html?sku_id=12000039822835784&spm=a2g2w.productlist.search_results.0.685b36c4hxx0vX|LILYGO TTGO Meshtastic T-Beam на AliExpress]]
-  * [[https://aliexpress.ru/item/1005006825494438.html?sku_id=12000038431183140&spm=a2g2w.productlist.search_results.9.3fddc258z2l5mz|LILYGO TTGO Meshtastic T-Echo модуль на AliExpress]]
+  * [[https://aliexpress.ru/item/1005002842456390.html?spm=a2g2w.orderdetail.0.0.58cd4aa6Ygp36x&sku_id=12000037263417079&_ga=2.219201754.292530119.1762950508-1718285868.1727282327|LILYGO TTGO Meshtastic T-Echo модуль на AliExpress]]
 
 «Правильные» антенны 868 МГц:
   * [[https://www.ozon.ru/search/?text=%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D0%BD%D0%B0+868+%D0%BC%D0%B3%D1%86+lora&from_global=true|На OZON]]
-  * [[https://aliexpress.ru/item/1005007260347766.html?spm=a2g2w.orderdetail.0.0.622f4aa6mBvcfI&sku_id=12000039979855385|На AliExpress]]
+  * [[https://aliexpress.ru/wholesale?SearchText=антенны+868+МГц&g=y&page=1&searchInfo=A5W8NsA69ltqZLmSc%2Bs0tUNvgJTeYhkjrYUxjDMdL5EDCVLaa63wdL%2F1f4A%2Bvyt9fRL3kSJVGcEP4w3bl%2FznxJLGkfUSbfyd8o%2FaW2B9mjD%2Ba8foq%2FMMW3boxO9nE%2BlSgOBfahwv%2BTneijSDQS8pCb8rS%2FLSMO5sJJHoF2xc55qYP%2BEVPbOBS5MI|На AliExpress]]
 
 **Обратите внимание**, что продавцы на AliExpress не всегда готовы отправлять уже купленные устройства в Россию.
 
