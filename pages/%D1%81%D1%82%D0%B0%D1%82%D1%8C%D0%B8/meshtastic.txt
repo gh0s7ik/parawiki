@@ -152,9 +152,12 @@
 
 ==== Полезные ссылки ====
   * [[https://meshtastic.org|Инструкция к сети Meshtastic]] (анг.)
-  * Сайт [[https://www.paratracker.in|paratracker.in]] с информацией о **Bir Mesh Network** (анг.)
+  * [[https://live.paratracker.in/|Карта на которой отображаются геопозиции устройств Meshtastic]]
+  * 
   * [[https://play.google.com/store/apps/details?id=com.geeksville.mesh|Приложение Meshtastic для Android]]
   * [[https://apps.apple.com/us/app/meshtastic/id1586432531|Приложение Meshtastic Apple]]
+  * 
+  * Сайт [[https://www.paratracker.in|paratracker.in]] с информацией о **Bir Mesh Network** (анг.)
   * Группа в Telegram [[https://t.me/BirParaglidingCommunity|Bir Paragliding Community]] (анг.) 
   * и раздел в группе [[https://t.me/BirParaglidingCommunity/6950|Mesh text]], в которую транслируются сообщения с устройств Mestastic
   * [[https://t.me/meshtastic_india|Группа в Telegram India Meshtastic Community]] (анг.)
