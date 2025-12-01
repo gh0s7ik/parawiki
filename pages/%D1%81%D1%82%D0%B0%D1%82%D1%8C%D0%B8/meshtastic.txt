@@ -69,11 +69,11 @@
   * На основе этих имён генерируется название вашего устройства в сети Meshtastic.
   - Вводим имена, нажимаем кнопку «Generate my config».
   * Сохраняем файл на смартфон. Он будет нужен для настройки прибора в приложении.
-
 {{:статьи:meshtastic:screen-10.png|}}
 
+=== Еще один источник файла настроек ===
+Так же файл настроек можно создать по ссылке [[https://tracker.bircom.ru/|на сайте tracker.bircom.ru]]
 ----
-
 === Приложение Meshtastik ===
 Скачиваем и устанавливаем приложение Meshtastik на свой смартфон:
   * Приложение для Android в [[https://play.google.com/store/apps/details?id=com.geeksville.mesh|play.google.com]]
