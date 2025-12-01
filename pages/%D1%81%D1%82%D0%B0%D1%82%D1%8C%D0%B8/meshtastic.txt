@@ -72,7 +72,7 @@
 {{:статьи:meshtastic:screen-10.png|}}
 
 === Еще один источник файла настроек ===
-Так же файл настроек можно создать по ссылке [[https://tracker.bircom.in/|на сайте tracker.bircom.in]]
+Так же файл настроек можно создать [[https://tracker.bircom.in/|на сайте tracker.bircom.in]]
 ----
 === Приложение Meshtastik ===
 Скачиваем и устанавливаем приложение Meshtastik на свой смартфон:
