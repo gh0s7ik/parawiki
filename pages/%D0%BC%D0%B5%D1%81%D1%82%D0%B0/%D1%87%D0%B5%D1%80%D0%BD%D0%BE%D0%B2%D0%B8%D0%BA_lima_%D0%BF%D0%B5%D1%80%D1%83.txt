@@ -46,6 +46,8 @@ Lima, столица Перу.
 | возможность топлендинга      | <Только топлендинг>                                                                                                                                                                                                                   |
 | XContest                     | <[[https://www.xcontest.org/world/en/flights-search/?filter%5Bpoint%5D=-77.037244+-12.125432+&filter%5Bradius%5D=5000&filter%5Bmode%5D=START&filter%5Bdate_mode%5D=dmy&filter%5Bdate%5D=&filter%5Bvalue_mode%5D=dst&filter%5Bmin_value_dst%5D=&filter%5Bcatg%5D=&filter%5Broute_types%5D=&filter%5Bavg%5D=&filter%5Bpilot%5D=&list%5Bsort%5D=pts&list%5Bdir%5D=down|ссылка]]>  |
 
+{{:места:peru:lima:peru_lima_takeoff_02.jpg?400|}}
+
 ** Юридические аспекты: **
   * Нужно разрешение местной ассоциации, рекомендую связаться заранее с местным пилотом, он оформит разрешение
   * Требуется лицензия не ниже APPI 3
